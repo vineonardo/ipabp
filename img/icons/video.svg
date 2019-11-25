@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-video">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="video" clip-path="url(#clip-video)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(5 6)">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1)" fill="none" stroke="#292929" stroke-width="1">
+        <rect width="16.93" height="16.93" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15.93" height="15.93" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(4.07 3.07)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="16.93" height="16.93" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="15.93" height="15.93" rx="1.5" fill="none"/>
+      </g>
+      <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M5.371,3.667.916.114C.554-.174,0,.106,0,.819v7.1c0,.64.515,1.026.916.7l4.455-3.55a.982.982,0,0,0,0-1.41Z" transform="translate(10.044 7.042)" fill="#ec2436"/>
+    </g>
+  </g>
+</svg>

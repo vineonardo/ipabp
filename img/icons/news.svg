@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-My_news">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="My_news" data-name="My news" clip-path="url(#clip-My_news)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_3" data-name="Group 3">
+      <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(6 6)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="20" height="20" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" rx="1.5" fill="none"/>
+      </g>
+      <g id="Group_1" data-name="Group 1" transform="translate(-0.5 -0.5)">
+        <line id="Line_2" data-name="Line 2" x2="13.89" transform="translate(9.5 14.5)" fill="none" stroke="#ec2436" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_3" data-name="Line 3" x2="7.64" transform="translate(9.5 10.5)" fill="none" stroke="#ec2436" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_4" data-name="Line 4" x2="13.89" transform="translate(9.5 18.5)" fill="none" stroke="#ec2436" stroke-linecap="round" stroke-width="1"/>
+        <line id="Line_5" data-name="Line 5" x2="10.41" transform="translate(9.5 22.5)" fill="none" stroke="#ec2436" stroke-linecap="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
