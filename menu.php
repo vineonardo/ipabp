@@ -42,7 +42,7 @@
             <div class="uk-card uk-card-default uk-padding-small uk-margin box-shadow">
                 <ul class="menu-page" uk-accordion>
                     <li>
-                        <a class="uk-accordion-title" href="#"><span class="icon"></span> न्यूज़</a>
+                        <a class="uk-accordion-title" href="#"><span class="icon abp_icon abp_news"></span> न्यूज़</a>
                         <div class="uk-accordion-content">
                             <div class="uk-grid uk-child-width-1-2">
                                 <div>
@@ -63,7 +63,7 @@
                         </div>
                     </li>
                     <li>
-                        <a class="uk-accordion-title" href="#"><span class="icon"></span> स्पोर्ट्स</a>
+                        <a class="uk-accordion-title" href="#"><span class="icon abp_icon abp_sports"></span> स्पोर्ट्स</a>
                         <div class="uk-accordion-content">
                             <div class="uk-grid uk-child-width-1-2">
                                 <div>
@@ -84,7 +84,7 @@
                         </div>
                     </li>
                     <li>
-                        <a class="uk-accordion-title" href="#"><span class="icon"></span> ओरिगिनाल्स</a>
+                        <a class="uk-accordion-title" href="#"><span class="icon abp_icon abp_og"></span> ओरिगिनाल्स</a>
                         <div class="uk-accordion-content">
                             <div class="uk-grid uk-grid-small uk-child-width-1-2">
                                 <div>
@@ -105,7 +105,7 @@
                         </div>
                     </li>
                     <li>
-                        <a class="uk-accordion-title" href="#"><span class="icon"></span> बिज़नेस</a>
+                        <a class="uk-accordion-title" href="#"><span class="icon abp_icon abp_biz"></span> बिज़नेस</a>
                         <div class="uk-accordion-content">
                             <div class="uk-grid uk-child-width-1-2">
                                 <div>
@@ -126,7 +126,7 @@
                         </div>
                     </li>
                     <li>
-                        <a class="uk-accordion-title" href="#"><span class="icon"></span> एंटरटेंमेंट</a>
+                        <a class="uk-accordion-title" href="#"><span class="icon abp_icon abp_ent"></span> एंटरटेंमेंट</a>
                         <div class="uk-accordion-content">
                             <div class="uk-grid uk-child-width-1-2">
                                 <div>
@@ -148,20 +148,20 @@
                     </li>
                 </ul>
                 <ul class="menu-page">
-                    <li><a href="#" title="एस्ट्रो"><span class="icon"></span> एस्ट्रो</a></li>
-                    <li><a href="#" title="क्राइम"><span class="icon"></span> क्राइम</a></li>
-                    <li><a href="#" title="मिसलेनियस"><span class="icon"></span> मिसलेनियस</a></li>
+                    <li><a href="#" title="एस्ट्रो"><span class="icon abp_icon abp_astro"></span> एस्ट्रो</a></li>
+                    <li><a href="#" title="क्राइम"><span class="icon abp_icon abp_crime"></span> क्राइम</a></li>
+                    <li><a href="#" title="मिसलेनियस"><span class="icon abp_icon abp_misc"></span> मिसलेनियस</a></li>
                 </ul>
             </div>
 
             <div class="uk-card uk-card-default uk-padding-small uk-margin box-shadow">
                 <ul class="menu-page">
-                    <li><a href="#" title="एस्ट्रो"><span class="icon"><img data-src="img/icons/profile.svg" uk-img width="22"></span> माय अकाउंट</a></li>
-                    <li><a href="#" title="क्राइम"><span class="icon"><img data-src="img/icons/bell.svg" uk-img width="22"></span> नोटिफिकेशन्स अलर्ट</a></li>
-                    <li><a href="#" title="मिसलेनियस"><span class="icon"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> बुकमार्क्स</a></li>
-                    <li><a href="#" title="मिसलेनियस"><span class="icon"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> ऑफलाइन समाचार</a></li>
-                    <li><a href="#" title="मिसलेनियस"><span class="icon"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> सिटीजन जर्नलिज़म</a></li>
-                    <li><a href="#" title="मिसलेनियस"><span class="icon"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> हमारे बारे में</a></li>
+                    <li><a href="#" title="एस्ट्रो"><span class="icon abp_icon abp_acnt"><img data-src="img/icons/profile.svg" uk-img width="22"></span> माय अकाउंट</a></li>
+                    <li><a href="#" title="क्राइम"><span class="icon abp_icon abp_notf"><img data-src="img/icons/bell.svg" uk-img width="22"></span> नोटिफिकेशन्स अलर्ट</a></li>
+                    <li><a href="#" title="मिसलेनियस"><span class="icon abp_icon abp_bookm"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> बुकमार्क्स</a></li>
+                    <li><a href="#" title="मिसलेनियस"><span class="icon abp_icon abp_offline"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> ऑफलाइन समाचार</a></li>
+                    <li><a href="#" title="मिसलेनियस"><span class="icon abp_icon abp_cj"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> सिटीजन जर्नलिज़म</a></li>
+                    <li><a href="#" title="मिसलेनियस"><span class="icon abp_icon abp_about"><img data-src="img/logo-symbol.svg" uk-img width="20"></span> हमारे बारे में</a></li>
                 </ul>
             </div>
 

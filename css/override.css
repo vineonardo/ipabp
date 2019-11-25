@@ -28,6 +28,64 @@ input:focus{
     text-decoration: none;
     outline: none;
 }
+.abp_icon{
+    position: relative;
+}
+.abp_icon:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    background-image: url(../img/sprite.png?v=1.0.1);
+    background-repeat: no-repeat;
+    background-size: 633px 165px;
+    z-index: 1;
+}
+.abp_news:after{
+    background-position: -206px -82px;
+}
+.abp_sports:after{
+    background-position: -247px -82px;
+}
+.abp_og:after{
+    background-position: -165px -82px;
+}
+.abp_biz:after{
+    background-position: -165px 0px;
+}
+.abp_ent:after{
+    background-position: -82px 0px;
+}
+.abp_astro:after{
+    background-position: -124px -1px;
+}
+.abp_crime:after{
+    background-position: -248px 0px;
+}
+.abp_misc:after{
+    background-position: -41px 0px;
+}
+.abp_acnt:after{
+    background-position: -123px -82px;
+}
+.abp_notf:after{
+    background-position: 0 0;
+}
+.abp_bookm:after{
+    background-position: -42px -82px;
+}
+.abp_offline:after{
+    background-position: -206px 0px;
+}
+.abp_cj:after{
+    background-position: -82px -81px;
+}
+.abp_about:after{
+    background-position: -1px -82px;
+}
+
 
 /* Common */
 .uk-dark,
@@ -1076,7 +1134,7 @@ input:focus{
     padding-top: 10px;
 }
 .menu-page > li{ 
-    border-bottom: 1px solid #E7E7E7;
+    /*border-bottom: 1px solid #E7E7E7;*/
 }
 .menu-page:not(.uk-accordion) > li:last-child{
     border: none;
@@ -1100,7 +1158,6 @@ input:focus{
     height: 36px;
     background: #FFF;
     text-align: center;
-    border: 1px solid var(--Grey);
     border-radius: 50%;
     margin-right: 10px;
 }
