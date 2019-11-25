@@ -10,40 +10,43 @@
 
 
     <div class="section-header notif_header">
-    	<div class="uk-padding-small uk-padding-remove-vertical">
-		    <form class="uk-grid-small" uk-grid>
-   				<div class="uk-width-1-1">
-			        <div class="uk-inline" style="width: 100%">
-			            <span class="uk-form-icon" uk-icon="icon: search"></span>
-			            <input class="uk-input" type="text" placeholder="Search Results for “Trump”" />
+        <div class="uk-padding-small uk-padding-remove-vertical">
+            <form class="uk-grid-small" uk-grid>
+                <div class="uk-width-1-1">
+                    <div class="uk-inline" style="width: 100%">
+                        <span class="uk-form-icon" uk-icon="icon: search"></span>
+                        <input class="uk-input" type="text" placeholder="Search Results for “Trump”" />
                         <button style="right:0;left:auto;" type="reset" class="uk-form-icon" uk-icon="icon: close"></button>
-			        </div>
-			    </div>
-			</form>
-		</div>
-	</div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
 
-	<div class="uk-padding-small uk-padding-remove-vertical"><br>
-		<div class="search_filters">
-			<span>Type:</span>
+    <div class="uk-padding-small uk-padding-remove-vertical search_filters_section"><br>
+        <div class="search_filters uk-align-left uk-margin-remove">
+            <span>Type:</span>
 
-			<a class="active" href="#">All</a>
-			<span>|</span>
+            <a class="active" href="#">All</a>
+            <span>|</span>
 
-			<a href="#">Articles</a>
-			<span>|</span>
+            <a href="#">Articles</a>
+            <span>|</span>
 
-			<a href="#">Photos</a>
-			<span>|</span>
+            <a href="#">Photos</a>
+            <span>|</span>
 
-			<a href="#">Videos</a>		
+            <a href="#">Videos</a>      
 
-		</div>
-	</div>
+        </div>
+        <div class="uk-align-right uk-margin-remove">
+            <a href="#"><img src="img/icons/sort.png"></a>
+        </div>
+    </div>
 
             <div class="section uk-padding-small">
 
-	 				<div class="list-wrap videos-list">
+                    <div class="list-wrap videos-list">
                         <ul class="list-side-thumb search_results">
                             <li>
                                 <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...">
