@@ -1105,6 +1105,8 @@ input:focus{
 }
 
 .uk-border-bottom-red{border-bottom: 1px solid #EC2436;padding-bottom: 7px;}
+.uk-background-light{background-color:#DFE6F2;}
+.uk-background-grey{background-color:#f8f8f8;}
 /*---notifications css--*/
 .notif_wrap{margin-top: 0;}
 .notif_header{margin-bottom: 0;padding:10px 0 0 0;border-bottom:0;}
@@ -1121,7 +1123,7 @@ input:focus{
 /*-------photo consumption----------*/
 .photo_cons_stories li a,.photo_cons_news_det{font-size: 18px;font-weight: 500;color: #000;}
 .photo_cons_news h3{text-align: left;font-weight:600;margin-bottom: 0;}
-.photo_cons_news p{color: #707070;padding:10px;margin-top:0px;}
+.photo_cons_news p{color: #707070;padding:0 10px 10px 10px;margin-top:0px;}
 /*---------photo gallery---------*/
 .photo_gal_tabs li.uk-active a{color: #000;}
 .photo_gal_tabs li.uk-active a{border-bottom-color: #EC2436;color: #EC2436!important;}
@@ -1187,4 +1189,4 @@ input:focus{
 #footer a span:nth-child(2){
     margin-top: 3px;
 }
-/*   End of Override CSS.     
+/*   End of Override CSS.  

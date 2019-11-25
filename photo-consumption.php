@@ -4,7 +4,7 @@
     <title>ABP News</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="css/uikit.min.css">
+    <link rel="stylesheet" href="css/custom.min.css">
     <link rel="icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="stylesheet" href="css/override.css" />
