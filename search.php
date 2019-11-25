@@ -4,7 +4,7 @@
     <title>ABP News</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="css/custom.min.css">
+    <link rel="stylesheet" href="css/uikit.min.css">
     <link rel="icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="stylesheet" href="css/override.css" />
@@ -21,7 +21,8 @@
    				<div class="uk-width-1-1">
 			        <div class="uk-inline" style="width: 100%">
 			            <span class="uk-form-icon" uk-icon="icon: search"></span>
-			            <input class="uk-input" type="text" placeholder="Search Results for “Trump”">
+			            <input class="uk-input" type="text" placeholder="Search Results for “Trump”" />
+                        <button style="right:0;left:auto;" type="reset" class="uk-form-icon" uk-icon="icon: close"></button>
 			        </div>
 			    </div>
 			</form>
@@ -200,7 +201,7 @@
                             <div class="uk-grid uk-grid-smaller uk-grid-match">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img data-src="https://img.etimg.com/thumb/width-400,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="250" uk-img/></div>
+                                    <img class="uk-ratio-4-3@s" data-src="https://img.etimg.com/thumb/width-400,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="250" uk-img/></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
@@ -239,9 +240,6 @@
                 <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3></a>
             </div>
         </div><!-- section -->
-
-
-
 
     <?php include '_footer.php'; ?>
 </div><!-- #wrapper -->
