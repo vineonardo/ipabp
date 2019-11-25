@@ -25,7 +25,7 @@
                 </div>
                 <div class="language-drop">
                     <button class="uk-button uk-button-white uk-button-pill uk-button-small box-shadow" type="button">Hindi | हिंदी <span uk-icon="icon: triangle-down"></span></button>
-                    <div class="uk-padding-small uk-text-center" uk-dropdown="mode: click; animation: uk-animation-slide-top-small; pos: bottom-right; offset: 0">
+                    <div uk-dropdown="mode: click; animation: uk-animation-slide-top-small; pos: bottom-right; offset: 0">
                         <ul class="uk-nav uk-dropdown-nav">
                             <li><a href="#">English | हिंदी</a></li>
                             <li><a href="#">Marathi | हिंदी</a></li>
