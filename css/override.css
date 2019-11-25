@@ -1033,9 +1033,22 @@ input:focus{
 }
 .language-drop .uk-dropdown{
     min-width: 126px;
+    padding: 0;
+}
+.language-drop .uk-dropdown-nav li a{
+    display: block;
+    padding: 10px 5px 10px 15px;
+    color: #555;
+    font-size: 0.8rem;
+}
+.language-drop .uk-dropdown-nav li{
+    border-top: 1px solid #EEE;
 }
 .language-drop .uk-dropdown.uk-open{
     box-shadow: 0 8px 12px rgba(0,0,0,.15);
+}
+.language-drop .uk-dropdown.uk-open .uk-dropdown-nav{
+    margin-top: 10px;
 }
 
 .menu-list{
