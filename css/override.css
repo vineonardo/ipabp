@@ -1104,7 +1104,7 @@ input:focus{
     margin-top: 6px;
 }
 
-uk-border-bottom-red{border-bottom: 1px solid #EC2436;padding-bottom: 7px;}
+.uk-border-bottom-red{border-bottom: 1px solid #EC2436;padding-bottom: 7px;}
 .uk-background-light{background-color:#DFE6F2;}
 .uk-background-grey{background-color:#f8f8f8;}
 /*---notifications css--*/
