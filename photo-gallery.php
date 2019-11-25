@@ -8,32 +8,32 @@
 <div id="wrapper">
     <?php include '_header.php'; ?>
 
- 	<div id="content">
+    <div id="content">
         <div class="uk-flex uk-flex-center uk-flex-middle uk-background-muted uk-padding-small uk-padding-remove-horizontal">
             <img src="//placehold.it/300x250&text=300x250 Ad" alt="Ad" />
         </div>
     </div>
-	     <div class="uk-padding-small">
-	                <div class="uk-flex uk-border-bottom-red uk-flex-between">
-	                    <h3 class="section-heading black-label">फोटो गैलरी</h3>    
-	                    <!-- <a href="#" class="view-all"><span>View All</span><span class="icon"></span></a> -->
-	                </div>
+         <div class="uk-padding-small">
+                    <div class="uk-flex uk-border-bottom-red uk-flex-between">
+                        <h3 class="section-heading black-label">फोटो गैलरी</h3>    
+                        <!-- <a href="#" class="view-all"><span>View All</span><span class="icon"></span></a> -->
+                    </div>
 
 
-		     <div class="uk-padding-remove-vertical">
-		        <div class="menu-wrap uk-light uk-h-scroll">
-		            <ul class="uk-navlist photo_gal_tabs">
+             <div class="uk-padding-remove-vertical">
+                <div class="menu-wrap uk-light uk-h-scroll">
+                    <ul class="uk-navlist photo_gal_tabs">
                         <li class="uk-active"><a style="color: #000;" href="#" title="बिज़नेस">टॉप शॉटस</a></li>
-		                <li><a style="color: #000;"  href="#" title="लाइफस्टाइल">पॉपुलर</a></li>
-		                <li><a style="color: #000;"  href="#" title="टेक्नोलॉजी">ट्रेंडिंग</a></li>
-		                <li><a style="color: #000;"  href="#" title="एंटरटेनमेंट">भारत</a></li>
-		                <li><a style="color: #000;"  href="#" title="फैशन">वर्ल्ड</a></li>
-		            </ul>
-		        </div>    
-		    </div>
-		</div>
+                        <li><a style="color: #000;"  href="#" title="लाइफस्टाइल">पॉपुलर</a></li>
+                        <li><a style="color: #000;"  href="#" title="टेक्नोलॉजी">ट्रेंडिंग</a></li>
+                        <li><a style="color: #000;"  href="#" title="एंटरटेनमेंट">भारत</a></li>
+                        <li><a style="color: #000;"  href="#" title="फैशन">वर्ल्ड</a></li>
+                    </ul>
+                </div>    
+            </div>
+        </div>
 
-		<div class="photo-grid-list">
+        <div class="photo-grid-list">
                     <div class="uk-card uk-card-default uk-padding-small">
                         <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
                             <div class="uk-grid uk-grid-smaller uk-grid-match">
@@ -49,7 +49,7 @@
                                     </div>
                                 </div>
                             </div>
-                        <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
+                        <h3 class="article_height">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
                         <div class="watch-btn photos">
                             <span class="icon" uk-icon="icon:image;ratio:0.9"></span>
                             <span class="uk-dark">07</span> <span>Photos</span>
@@ -70,7 +70,7 @@
                                     </div>
                                 </div>
                             </div>
-                        <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
+                        <h3 class="article_height">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
                         <div class="watch-btn photos">
                             <span class="icon" uk-icon="icon:image;ratio:0.9"></span>
                             <span class="uk-dark">07</span> <span>Photos</span>
@@ -130,7 +130,7 @@
                                     </div>
                                 </div>
                             </div>
-                        <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
+                        <h3 class="article_height">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
                         <div class="watch-btn photos">
                             <span class="icon" uk-icon="icon:image;ratio:0.9"></span>
                             <span class="uk-dark">07</span> <span>Photos</span>
@@ -151,7 +151,7 @@
                                     </div>
                                 </div>
                             </div>
-                        <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
+                        <h3 class="article_height">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
                         <div class="watch-btn photos">
                             <span class="icon" uk-icon="icon:image;ratio:0.9"></span>
                             <span class="uk-dark">07</span> <span>Photos</span>
@@ -172,7 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                        <h3>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
+                        <h3 class="article_height">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत</h3>
                         <div class="watch-btn photos">
                             <span class="icon" uk-icon="icon:image;ratio:0.9"></span>
                             <span class="uk-dark">07</span> <span>Photos</span>
