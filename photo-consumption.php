@@ -4,7 +4,7 @@
     <title>ABP News</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="css/custom.min.css">
+    <link rel="stylesheet" href="css/uikit.min.css">
     <link rel="icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
     <link rel="stylesheet" href="css/override.css" />
@@ -60,9 +60,13 @@
         	<p><b>न्यूयॉर्क:</b> अमेरिका के राष्ट्रपति डोनल्ड ट्रंप एक बार फिर भारत पाकिस्तान के रिश्ते पर बोले हैं. ट्रंप ने एक बार फिर दोनों देशों के बीच मध्यस्थता की बात दोहराई है. ट्रंप ने कहा है कि भारत और पाकिस्तान की सोच काफी अलग है जिसकी वजह से मुझे चिंता है. लेकिन अगर दोनों मानेंगे तो मैं मदद करूंगा और उन्हें मेरी मदद पसंद भी आएगी. राष्ट्रपति ट्रंप ने कहा, ''कल प्रधानमंत्री इमरान खान से अच्छी मुलाकात हुई, वो लोग बात कर रहे हैं. भारत चाहेगा तो मैं मदद करूंगा. दोनों देशों को मेरी मदद पंद आएगी लेकिन पहले दोनों मानें तो सही. दोनों देशों के विचार अलग हैं, इसे लेकर मैं चिंतित हूं.'' बता दें कि यह छठा मौका है जब राष्ट्रपति ट्रंप ने दोनों देशों के बीच मध्यस्थता की बात कही है.</p>
         </div>
 
-          	<?php include '_ad300x250.php'; ?>
+        <div id="content">
+        <div class="uk-flex uk-flex-center uk-flex-middle uk-background-light uk-padding-small uk-padding-remove-horizontal">
+            <img src="//placehold.it/300x250&text=300x250 Ad" alt="Ad" />
+        </div>
+    </div>
 
-	 <div class="section section-no-border uk-padding-small">
+	 <div class="section section-no-border uk-background-grey uk-padding-small">
 	        <div class="breaking-news">
     			<div class="uk-position-relative uk-margin-remove-top" uk-slider>
                     <ul class="uk-slider-items edge">
@@ -288,28 +292,28 @@
 
         <?php include '_ad300x100.php'; ?>
 
-        <div class="uk-padding-small">
+        <div class="uk-padding-small uk-background-grey">
         	<div class="uk-flex section-header uk-flex-between">
                     <h3 class="section-heading black-label">Sponsored Content</h3>    
                     <a href="#" class="view-all"><span>View All</span><span class="icon"></span></a>
                 </div>
          <div class="uk-position-relative" uk-slider>
                         <ul class="uk-slider-items uk-grid uk-grid-small">
-                            <li class="uk-width-4-5">
+                            <li class="uk-width-1-2">
                                 <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                                     <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                                     <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
                                     <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                                 </div>
                             </li>
-                            <li class="uk-width-4-5">
+                            <li class="uk-width-1-2">
                                 <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                                     <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                                     <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
                                     <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                                 </div>
                             </li>
-                            <li class="uk-width-4-5">
+                            <li class="uk-width-1-2">
                                 <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                                     <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                                     <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
