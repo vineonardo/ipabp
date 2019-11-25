@@ -7,11 +7,11 @@
             </div>
             <div class="uk-width-expand uk-flex uk-flex-right uk-flex-middle">
                 <ul class="uk-iconnav">
-                    <li><a href="#"><span class="icon"><img data-src="img/icons/live-tv.svg" width="30" height="30" uk-img></span></a>
+                    <li><a href="#"><span class="icon abp_icon abp_livetv_on"></span></a>
                     </li>
-                    <li><a href="#"><span class="icon"><img data-src="img/icons/bell.svg" width="30" height="30" uk-img></span></a>
+                    <li><a href="#"><span class="icon abp_icon abp_bell"></span></a>
                     </li>
-                    <li><a href="#"><span class="icon"><img data-src="img/icons/profile.svg" width="30" height="30" uk-img></span></a>
+                    <li><a href="#"><span class="icon abp_icon abp_profile"></span></a>
                     </li>
                 </ul>
             </div>

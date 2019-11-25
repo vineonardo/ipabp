@@ -87,6 +87,19 @@ input:focus{
 .abp_about:after{
     background-position: -1px -82px;
 }
+.abp_profile:after{
+    background-position: -333px -98px;   
+}
+.abp_bell:after{
+    background-position: -443px -6px;
+    width: 30px;
+    height: 30px;
+}
+.abp_livetv_on:after{
+    background-position: -475px -6px;  
+    width: 30px;
+    height: 30px; 
+}
 
 
 /* Common */
@@ -421,6 +434,12 @@ input:focus{
 }
 #header .menu-wrap{
     height: 50px;
+}
+#header .menu-wrap .uk-iconnav .icon{
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
 }
 
 #header.header-inner{
