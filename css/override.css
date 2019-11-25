@@ -47,6 +47,9 @@ input:focus{
 .uk-background-muted{
     background: #E8E7E7;
 }
+.uk-background-muted-light{
+    background: #F8F8F8;
+}
 .uk-text-smaller{
     font-size: 0.7rem;
 }

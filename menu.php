@@ -17,7 +17,7 @@
             <img data-src="img/abp_live_logo.webp" alt="Logo" width="60" uk-img>
         </div>
         <div class="uk-padding-small menu-search-form">
-            <div class="uk-card uk-padding-small uk-background-muted uk-flex uk-flex-middle uk-flex-between">
+            <div class="uk-card uk-padding-small uk-background-muted-light uk-flex uk-flex-middle uk-flex-between">
                 <div>
                     <a href="search.php">
                         <img data-src="img/icons/search-red.svg" alt="search" width="24" uk-img/>
