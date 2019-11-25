@@ -1,6 +1,8 @@
 /*   Override CSS goes here   */
 :root{
     --colorPrimary: #CC0000;
+    --lightGrey: #F8F8F8;
+    --Grey: #E8E7E7;
 }
 *{
     margin: 0;
@@ -48,7 +50,7 @@ input:focus{
     background: #E8E7E7;
 }
 .uk-background-muted-light{
-    background: #F8F8F8;
+    background: var(--lightGrey);
 }
 .uk-text-smaller{
     font-size: 0.7rem;
@@ -1097,7 +1099,7 @@ input:focus{
     height: 36px;
     background: #FFF;
     text-align: center;
-    border: 1px solid #CCC;
+    border: 1px solid var(--Grey);
     border-radius: 50%;
     margin-right: 10px;
 }
