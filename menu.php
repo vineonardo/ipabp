@@ -8,10 +8,11 @@
 <div id="wrapper">
     <div id="content">
         <div class="uk-text-center uk-padding-small">
-            <img data-src="img/abp_live_logo.webp" alt="Logo" width="60" uk-img>
+            <!-- <img data-src="img/abp_live_logo.webp" class="menu-logo" alt="Logo" width="60" uk-img> -->
+            <span class="abp_icon abp_logo menu-logo"></span>
         </div>
         <div class="uk-padding-small menu-search-form">
-            <div class="uk-card uk-padding-small uk-background-muted-light uk-flex uk-flex-middle uk-flex-between">
+            <div class="uk-card menu-card uk-padding-small uk-background-muted-light uk-flex uk-flex-middle uk-flex-between">
                 <div>
                     <a href="search.php">
                         <img data-src="img/icons/search-red.svg" alt="search" width="24" uk-img/>
