@@ -1764,7 +1764,7 @@ input:focus{
 .settings{border: none;}
 .settings span{font-size: 20px;color: #000;}
 /*----search css----*/
-.search_filters{font-size: 18px;color:#000}
+.search_filters{color:#000}.search_filters_section{overflow: auto;}
 .search_filters a{text-decoration: none;color: #000;margin-right: 4px;margin-left: 4px;}
 .search_filters a.active{font-weight:600;}
 .search_results li:not(:first-child){padding-bottom: 8px;padding-top: 8px;}
