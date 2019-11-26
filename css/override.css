@@ -39,7 +39,7 @@ input:focus{
     top: 0;
     left: 0;
     width: 40px;
-    height: 40px;
+    height: 32px;
     background-image: url(../img/sprite.png?v=1.0.3);
     background-repeat: no-repeat;
     background-size: 633px 165px;
@@ -88,7 +88,7 @@ input:focus{
     background-position: -1px -82px;
 }
 .abp_profile:after{
-    background-position: -333px -98px;   
+    background-position: -342px -91px;   
 }
 .abp_bell:after{
     background-position: -443px -6px;
@@ -1223,7 +1223,7 @@ input:focus{
 .search_results li:not(:first-child){padding-bottom: 8px;padding-top: 8px;}
 /*-------photo consumption----------*/
 .photo_cons_stories li a,.photo_cons_news_det{font-size: 18px;font-weight: 500;color: #000;}
-.photo_cons_news h3{text-align: left;font-weight:600;margin-bottom: 0;}
+.photo_cons_news h3{text-align: left;margin-bottom: 0;}
 .photo_cons_news p{color: #707070;padding:0 10px 10px 10px;margin-top:0px;}
 /*---------photo gallery---------*/
 .photo_gal_tabs li.uk-active a{color: #000;}
@@ -1243,7 +1243,7 @@ input:focus{
 .topic_sponsored_content .topic_sponsored_content_text{padding-left:20px;padding-top: 5px;}
 .topic_sponsored_content .topic_sponsored_content_img img{height: 100%;object-fit: cover;border-top-left-radius: 0;border-bottom-left-radius: 0;}
 /*-----------cp video css--------------*/
-.video_upload_time h1{font-size: 18px;font-weight:bold;}
+.video_upload_time h3{font-size:1rem;}
 .vid_time_separator{width: 5px;height: 5px;background-color:#EC2436;display: block;border-radius: 5px;position: relative;top:7px;}
 .vid_upload_details{overflow: auto;margin-top: 10px;}
 .vid_upload_details .vid_upload_details_left span{margin-right: 9px;font-size: 12px;color: #000;float: left;}
