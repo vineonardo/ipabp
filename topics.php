@@ -13,12 +13,12 @@
      <div class="section uk-padding-small featured-listing">
             <div class="uk-panel uk-margin uk-border-rounded-medium uk-overflow-hidden box-shadow topic_news">
                 <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
-                	<h2 class="red-label">#विधानसभा चुनाव 2019</h2>
+                    <h2 class="red-label">#विधानसभा चुनाव 2019</h2>
                 <h3 style="">बीजेपी का प्रतिनिधिमंडल राजभवन में राज्यपाल भगत सिंह कोशियारी से मिलने पहुंच गया है. बताया जा रहा है कि बीजेपी राज्यपाल को राज्य की वर्तमान स्थिति के बारे में जानकारी देगी. महाराष्ट्र में संकट के बीच शिवसेना विधायकों की बैठक खत्म हो गई है. शिवसेना के किसी विधायक ने मीडिया के सवालों का जवाब नहीं दिया. विधायकों ने कहा कि जो कहना है पार्टी प्रमुख उद्धव ठाकरे कहेंगे.</h3></a>
             </div>
         </div><!-- section -->
     <?php include '_ad300x250.php'; ?>
- 		<div class="section uk-padding-small featured-listing">
+        <div class="section uk-padding-small featured-listing">
             <div class="uk-panel uk-margin uk-border-rounded-medium uk-overflow-hidden box-shadow">
                 <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
                     <div class="uk-position-relative">
@@ -31,7 +31,7 @@
 
 
         <div class="section uk-padding-small">
-        	<div class="uk-position-relative" uk-slider>
+            <div class="uk-position-relative video-slider" uk-slider>
                         <ul class="uk-slider-items uk-grid uk-grid-small">
                             <li class="uk-width-4-5">
                                 <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
@@ -60,7 +60,7 @@
         </div>
 
 
-        			<div class="section uk-padding-small">
+                    <div class="section uk-padding-small">
                    <div class="list-wrap notif_wrap">
                         <ul class="list-side-thumb list-notifications">
                             <li>
@@ -77,20 +77,20 @@
                            </ul></div></div>
 
                            <div class="section uk-padding-small">
-								<div class="list-wrap videos-list">
-			                        <ul class="list-side-thumb topic_sponsored_content">
-			                            <li>
-			                                <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...">
-			                                    <div class="uk-grid uk-grid-small">
-			                                        <div class="uk-width-3-5 topic_sponsored_content_text">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...</div>
-			                                        <div class="uk-width-2-5 topic_sponsored_content_img">
-			                                            <img class="box-shadow uk-border-rounded-medium uk-overflow-hidden" data-src="https://img.etimg.com/thumb/width-150,height-120,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="150" height="120" uk-img/>
-			                                        </div>
-			                                    </div>
-			                                </a>
-			                            </li>
-			                        </ul>
-			                    </div><!-- list-wrap -->
+                                <div class="list-wrap videos-list">
+                                    <ul class="list-side-thumb topic_sponsored_content">
+                                        <li>
+                                            <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...">
+                                                <div class="uk-grid uk-grid-small">
+                                                    <div class="uk-width-3-5 topic_sponsored_content_text">भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...</div>
+                                                    <div class="uk-width-2-5 topic_sponsored_content_img">
+                                                        <img class="box-shadow uk-border-rounded-medium uk-overflow-hidden" data-src="https://img.etimg.com/thumb/width-150,height-120,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="150" height="120" uk-img/>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div><!-- list-wrap -->
 
                            </div>
 
@@ -99,7 +99,7 @@
                  
 
 
-	<div class="section uk-padding-small">
+    <div class="section uk-padding-small">
                    <div class="list-wrap notif_wrap">
                         <ul class="list-side-thumb list-notifications">
                             <li>
@@ -148,21 +148,63 @@
 
 
                 <div class="section uk-padding-small">
-                	<div class="uk-flex section-header uk-flex-between">
-                    	<h3 class="section-heading red-label">पॉपुलर टॉपिकस</h3>
-                	</div>
-                	<div class="topics_popular">
-                		<ul>
-                			<li><a href="#">#Howdy Modi<span uk-icon="icon:chevron-right"></span></a></li>
-                			<li><a href="#">#Box Office<span uk-icon="icon:chevron-right"></span></a></li>
-                			<li><a href="#">#WhatsApp<span uk-icon="icon:chevron-right"></span></a></li>
-                			<li><a href="#">#Assembly Election<span uk-icon="icon:chevron-right"></span></a></li>
-                			<li><a href="#">Show More</a></li>
-                		</ul>
-                	</div>
-            	</div>
+                    <div class="uk-flex uk-flex-between">
+                        <h3 class="section-heading red-label uk-margin-bottom uk-margin-top">पॉपुलर टॉपिकस</h3>
+                    </div>
+                    <div class="topics_popular">
+                        <ul>
+                            <li><a href="#">#Howdy Modi<span uk-icon="icon:chevron-right"></span></a></li>
+                            <li><a href="#">#Box Office<span uk-icon="icon:chevron-right"></span></a></li>
+                            <li><a href="#">#WhatsApp<span uk-icon="icon:chevron-right"></span></a></li>
+                            <li><a href="#">#Assembly Election<span uk-icon="icon:chevron-right"></span></a></li>
+                            <li><a href="#">Show More</a></li>
+                        </ul>
+                    </div>
+                </div>
 
-    <?php include '_ad300x100.php'; ?>     	
+    <?php include '_ad300x100.php'; ?>
+
+       <div class="uk-padding-small uk-background-grey">
+            <div class="uk-flex section-header uk-flex-between">
+                    <h3 class="section-heading black-label">Sponsored Content</h3>    
+                    <a href="#" class="view-all"><span>View All</span><span class="icon"></span></a>
+                </div>
+         <div class="uk-position-relative video-slider" uk-slider>
+                        <ul class="uk-slider-items uk-grid uk-grid-small">
+                            <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                 <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                           
+                        </ul>
+                    </div>
+                    </div>   
 
     <?php include '_footer.php'; ?>
 </div><!-- #wrapper -->

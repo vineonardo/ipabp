@@ -6,11 +6,14 @@
 </head>
 <body>
 <div id="wrapper">
-    <?php include '_headerInner.php'; ?>
+    <?php //include '_headerInner.php'; ?>
+    <?php include '_header.php'; ?>
     <div id="content">
         <div class="uk-flex uk-flex-center uk-flex-middle uk-background-muted uk-padding-small uk-padding-remove-horizontal">
             <img src="//placehold.it/300x250&text=300x250 Ad" alt="Ad" />
         </div>
+
+        <?php include '_breadcrumbs.php'; ?>
         
         <!-- Article Begin -->
         <article class="article">
@@ -173,7 +176,7 @@
             </div>
 
             <div class="uk-text-center">
-                <a href="#" class="join-manch">
+                <a href="#" class="join-manch box-shadow">
                     <div>
                         <span class="icon">मंच</span>    
                     </div>
@@ -248,6 +251,27 @@
                         </a>
                     </div>
                 </li>
+                <li>
+                    <div class="uk-card uk-card-default box-shadow">
+                        <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...">
+                            <div class="uk-grid uk-grid-small uk-grid-match">
+                                <div class="uk-width-3-5">
+                                    <div class="uk-padding-smaller uk-flex uk-flex-column uk-flex-between">
+                                        <div><span>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी...</span></div>
+                                        <div></div>
+                                        <div class="watch-btn">
+                                            <span class="icon" uk-icon="icon:triangle-right;ratio:1.5"></span>
+                                            <span>Watch</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="uk-width-2-5">
+                                    <img class="box-shadow uk-border-rounded-medium uk-overflow-hidden" data-src="https://img.etimg.com/thumb/width-150,height-120,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="120" height="120" uk-img/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </li>
             </ul>
         </div>
         </div><!-- section -->
@@ -258,7 +282,7 @@
                 <h3 class="uk-font-normal uk-margin-remove uk-h4">Related Articles</h3>    
             </div>
             <ul class="uk-slider-items uk-grid uk-grid-small">
-                <li class="uk-width-4-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                         <div class="uk-position-relative">
@@ -268,7 +292,7 @@
                         <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
-                <li class="uk-width-4-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                         <div class="uk-position-relative">
@@ -278,7 +302,7 @@
                         <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
-                <li class="uk-width-4-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
                         <div class="uk-position-relative">

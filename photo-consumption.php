@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ABP News</title>
+    <title>Photo Consumption | ABP News</title>
     <?php include '_meta.php'; ?>
 </head>
 <body>
@@ -29,30 +29,36 @@
         </article>
         <!-- Article End -->
         
-           <div class="related uk-padding-small">
-                <ul class="uk-list uk-related photo_cons_stories">
+        <!-- related -->
+
+        <div class="section uk-padding-small">
+
+
+            <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+
+
+           <!--  <div class="related uk-padding-small">
+                <ul class="uk-list photo_cons_stories" style="list-style: none;">
                     <li><a href="#">Shiv Sena को समर्थन ना देने के लिए जमीयत उलेमा हिंद ने Sonia Gandhi को लिखा पत्र</a></li>
                     <li><a href="#">अफ्रीका: बुर्किना फासो की सेना ने एक हफ्ते के अंदर 32 आतंकवादियों को मार गिराया</a></li>
                     <li><a href="#">जंग का मैदान बना हांगकांग, विरोध प्रदर्शन को देखते हुए सोमवार को सभी स्कूल बंद</a></li>
                 </ul>
-            </div><!-- related -->
+            </div> -->
 
-		<div class="section section-no-border">
-		    <div class="breaking-news">
-                <div class="uk-padding-small">
-                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-                  
-                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-                </div>
-                </div>
-            </div>
-        </div>
 
-        <div class="uk-padding-small photo_cons_news_det">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+                    <p class="uk-margin-remove">PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
+               	 </a>
+                </div>
+              </div>
+       <!--  <div class="uk-padding-small photo_cons_news_det">
         	<p><b>न्यूयॉर्क:</b> अमेरिका के राष्ट्रपति डोनल्ड ट्रंप एक बार फिर भारत पाकिस्तान के रिश्ते पर बोले हैं. ट्रंप ने एक बार फिर दोनों देशों के बीच मध्यस्थता की बात दोहराई है. ट्रंप ने कहा है कि भारत और पाकिस्तान की सोच काफी अलग है जिसकी वजह से मुझे चिंता है. लेकिन अगर दोनों मानेंगे तो मैं मदद करूंगा और उन्हें मेरी मदद पसंद भी आएगी. राष्ट्रपति ट्रंप ने कहा, ''कल प्रधानमंत्री इमरान खान से अच्छी मुलाकात हुई, वो लोग बात कर रहे हैं. भारत चाहेगा तो मैं मदद करूंगा. दोनों देशों को मेरी मदद पंद आएगी लेकिन पहले दोनों मानें तो सही. दोनों देशों के विचार अलग हैं, इसे लेकर मैं चिंतित हूं.'' बता दें कि यह छठा मौका है जब राष्ट्रपति ट्रंप ने दोनों देशों के बीच मध्यस्थता की बात कही है.</p>
-        </div>
+        </div> -->
 
         <div id="content">
         <div class="uk-flex uk-flex-center uk-flex-middle uk-background-light uk-padding-small uk-padding-remove-horizontal">
@@ -86,125 +92,125 @@
 			</div>
 		</div>
 	
-				<div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
+				<div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+                    <p class="uk-margin-remove">PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
+               	 </a>
+                </div>
+              </div>
+              <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+                    <p class="uk-margin-remove">PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
+               	 </a>
+                </div>
+              </div>
+              <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+                    <p class="uk-margin-remove">PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
+               	 </a>
+                </div>
+              </div>
 
+              <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
-				<div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
-				<div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
-
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
-
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
-
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
-
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
-
-		        <div class="section section-no-border">
-				    <div class="breaking-news">
-		                <div class="uk-padding-small">
-		                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow photo_cons_news">
-		                    <img data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-		                  
-		                    <h3>1. अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</h3>
-		                    <p>PHOTOGRAPH: RAVI PRASAD | REUTERS</p>
-		                </div>
-		                </div>
-		            </div>
-		        </div>
+               <div class="section uk-padding-small">
+                <div class="uk-panel uk-border-rounded-medium uk-overflow-hidden box-shadow simple-title photo_cons_news">
+                    <a href="#" title="भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये" class="uk-display-block">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                    <h3>1. भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत...</h3>
+               	 </a>
+                </div>
+              </div>
 
 		        <div class="section section-no-border uk-padding-small">
 	        <div class="breaking-news">
@@ -286,34 +292,97 @@
 
         <?php include '_ad300x100.php'; ?>
 
+          <div class="article-footer uk-padding-small">
+          
+            <div class="article-tags-wrap">
+                <ul class="tags-list">
+                    <li class="uk-text-bold">Tags:</li>
+                    <li><a href="#">#India</a></li>
+                    <li><a href="#">#Chandrayan2</a></li>
+                    <li><a href="#">#ISRO</a></li>
+                    <li><a href="#">#NarendraModi</a></li>
+                    <li><a href="#">#MoonLanding</a></li>
+                </ul>
+            </div>
+        </div>
+
+            <div class="section video-slider uk-padding-small">
+        <div class="uk-position-relative" uk-slider>
+            <div class="uk-flex section-header uk-flex-between">
+                <h3 class="uk-font-normal uk-margin-remove uk-h4">Related Articles</h3>    
+            </div>
+            <ul class="uk-slider-items uk-grid uk-grid-small">
+                <li class="uk-width-4-5">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                            <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                <li class="uk-width-4-5">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                            <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                <li class="uk-width-4-5">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                            <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        </div><!-- section -->
+
         <div class="uk-padding-small uk-background-grey">
         	<div class="uk-flex section-header uk-flex-between">
                     <h3 class="section-heading black-label">Sponsored Content</h3>    
                     <a href="#" class="view-all"><span>View All</span><span class="icon"></span></a>
                 </div>
-         <div class="uk-position-relative" uk-slider>
+         <div class="uk-position-relative video-slider" uk-slider>
                         <ul class="uk-slider-items uk-grid uk-grid-small">
                             <li class="uk-width-1-2">
-                                <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
-                                    <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                                    <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-                                    <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
-                                </div>
-                            </li>
-                            <li class="uk-width-1-2">
-                                <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
-                                    <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                                    <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-                                    <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
-                                </div>
-                            </li>
-                            <li class="uk-width-1-2">
-                                <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
-                                    <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                                    <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
-                                    <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
-                                </div>
-                            </li>
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                 <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative">
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-640,height-360,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="400" height="300" uk-img/>
+                           
+                        </div>
+                        <h3>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
                            
                         </ul>
                     </div>

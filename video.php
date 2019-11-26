@@ -98,31 +98,34 @@
                 </div>
             </div>
             <ul class="uk-slider-items edge">
-                <li class="uk-width-3-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
+                        <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
                             <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
                         </div>
                         <h3><span class="red-label">Master Stroke: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
-                <li class="uk-width-3-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
+                        <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
                             <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
                         </div>
                         <h3><span class="red-label">Ghanta Bajao: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
-                <li class="uk-width-3-5">
+                <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
+                         <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
                             <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
                         </div>
                         <h3><span class="red-label">SbS: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
@@ -141,34 +144,37 @@
                 </div>
             </div>
             <ul class="uk-slider-items edge">
-                <li class="uk-width-3-5">
+                 <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
-                            <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
-                        </div>
-                        <h3><span class="red-label">Master Stroke: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
-                    </div>
-                </li>
-                <li class="uk-width-3-5">
-                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
-                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
+                        <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
                             <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
                         </div>
                         <h3><span class="red-label">Ghanta Bajao: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
-                <li class="uk-width-3-5">
+                 <li class="uk-width-1-2">
                     <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
                         <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
-                        <div class="uk-position-relative">
-                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" width="300" height="300" uk-img/>
+                        <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
                             <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
                         </div>
-                        <h3><span class="red-label">SbS: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                        <h3><span class="red-label">Ghanta Bajao: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
+                    </div>
+                </li>
+                 <li class="uk-width-1-2">
+                    <div class="uk-card box-shadow uk-border-rounded-medium uk-overflow-hidden">
+                        <a href="#" title="BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित">
+                        <div class="uk-position-relative uk-cover-container">
+                            <canvas width="200" height="150"></canvas>
+                            <img class="uk-border-bottom" data-src="https://img.etimg.com/thumb/width-300,height-300,imgsize-225294,resizemode-1,msid-72074484/government-mulls-raising-insurance-cover-on-bank-deposits-to-above-rs-1-lakh-nirmala-sitharaman.jpg" alt="Featured Article" uk-img  uk-cover/>
+                            <div class="play-icon uk-position-center" uk-icon="icon:triangle-right;ratio:1.5"></div>
+                        </div>
+                        <h3><span class="red-label">Ghanta Bajao: </span>BJP संसदीय बोर्ड की बैठक में उठा प्रदूषण का मुद्दा, आज लोकसभा में भी होगी चर्चा, राज्यसभा 2 बजे तक स्थगित</h3></a>
                     </div>
                 </li>
             </ul>
