@@ -1,0 +1,1 @@
+<div class="uk-text-center uk-background-muted"><img src="https://picsum.photos/id/20/300/250" width="300"></div>
