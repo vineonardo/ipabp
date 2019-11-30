@@ -123,7 +123,17 @@
 	
 	<script src="js/uikit.min.js"></script>
     <script src="js/uikit-icons.min.js"></script>
-	<script src="js/font-awesome.min.js"></script>
-	<script src="js/init.js"></script>
+	<script>
+		var slider = document.getElementById('slider_panel');
+		var slider1 = document.getElementById('slider_panel_1');
+		var slider2 = document.getElementById('slider_panel_2');
+		var slider3 = document.getElementById('slider_panel_3');
+		var slider4 = document.getElementById('slider_panel_4');
+		UIkit.slider(slider,{'autoplay':true,'autoplay-interval':1000});
+		UIkit.slider(slider1,{'autoplay':true,'autoplay-interval':1000});
+		UIkit.slider(slider2,{'autoplay':true,'autoplay-interval':1000});
+		UIkit.slider(slider3,{'autoplay':true,'autoplay-interval':1000});
+		UIkit.slider(slider4,{'autoplay':true,'autoplay-interval':1000});
+	</script>
  </body>
 </html>

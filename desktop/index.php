@@ -13,8 +13,9 @@
 						</div>
 						<div class="news_section">
 							<div class="news_featured">
-								<a href="#"><img src="images/article2.png" width="100%"></a>
-								<div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a></div>
+								<a href="#" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें"><img src="images/article2.png" width="100%">
+								<div class="news_content uk-padding-small"><h2 class="uk-h4 uk-margin-remove">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</h2></div>
+								</a>
 							</div>
 						</div>
 						<div class="other_news">
@@ -36,8 +37,14 @@
 			<div class="uk-grid-small" uk-grid>
 				<div class="uk-width-expand">
 					<div class="news_featured">
-						<a href="#"><img src="images/centre.png" width="100%"></a>
-						<div class="news_content"><a href="#"><p class="fontFeatured">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a></div>
+						<a href="#" class="uk-display-block" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें	">
+							<img src="images/centre.png" width="100%" alt="iamge_name">
+							<div class="news_content uk-padding-small">
+								<h1 class="fontFeatured uk-margin-remove">
+									पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें	
+								</h1>
+							</div>
+						</a>
 					</div>
 				</div>
 				<div class="uk-sidebar">
