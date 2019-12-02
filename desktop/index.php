@@ -50,12 +50,15 @@
 				<div class="uk-sidebar">
 						<?php include '_adBanner_square.php'; ?>
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+								<div class="uk-grid-collapse" uk-grid>
+									<div class="uk-width-3-5">
+										<div class="p-10">
+											<a href="#">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</a>
+											<div class="uk-text-muted uk-text-small">Sponsored</div>	
+										</div>
 									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<a href="#"><img src="images/article1.png" width="100%"></a>
+									<div class="uk-width-2-5">
+										<a href="#"><img src="images/img-1-1.jpg" width="150" height="150" /></a>
 									</div>
 								</div>
 							</div>
