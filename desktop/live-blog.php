@@ -31,7 +31,7 @@
 					<div class="blog_list news_featured">
 						<div class="floated_section_title">
 							<div class="after_div">
-								<h2><i class="fas fa-circle"></i>&nbsp;&nbsp;<span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
+								<h2 class="red-blob-label"><span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
 							</div>
 						</div>
 						<div class="news_content" >
@@ -43,7 +43,7 @@
 					<div class="blog_list news_featured">
 						<div class="floated_section_title">
 							<div class="after_div">
-								<h2><i class="fas fa-circle"></i>&nbsp;&nbsp;<span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
+								<h2 class="red-blob-label"><span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
 							</div>
 						</div>
 						<div class="news_content">
@@ -54,7 +54,7 @@
 						<div class="news_featured uk-margin-top" style="padding: 3.2%;">
 							<a href="#"><img src="images/new.jpg" width="100%"></a>
 							<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet.</p>
-								<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+								<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 							</a>
 							</div>
 						</div>
@@ -64,7 +64,7 @@
 						<div class="blog_list news_featured">
 						<div class="floated_section_title">
 							<div class="after_div">
-								<h2><i class="fas fa-circle"></i>&nbsp;&nbsp;<span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
+								<h2 class="red-blob-label"><span>8:32 AM</span><span> | </span><span>20 NOV</span></h2>
 							</div>
 						</div>
 						<div class="news_content">
@@ -78,7 +78,7 @@
 							<img class="play_btn_div_small" src="images/artboard.png">
 						</div>
 							<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet.</p>
-								<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+								<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 							</a>
 							</div>
 						</div>

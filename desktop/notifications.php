@@ -13,21 +13,21 @@
 							<ul>
 								<li>My Notifications</li>
 								<li>You're all caught up! Check back later for new notifications</li>
-								<li><a href="#">My Profile<i class="fas fa-angle-right"></i></a></li>
+								<li><a href="#">My Profile<i uk-icon="chevron-right"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="uk-width-3-5">
 						<div class="all_notifications">
 							<div>
-								<h1><i class="far fa-bell"></i>&nbsp;&nbsp;All Notifications</h1>
+								<h1><span class="abp_icon abp_bell"></span>&nbsp;&nbsp;<span class="pd-left-30">All Notifications</span></h1>
 							</div>
 							<div>
 								<ul class="notif_list">
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -36,7 +36,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -45,7 +45,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -54,7 +54,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -63,7 +63,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -72,7 +72,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -81,7 +81,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -90,7 +90,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -99,7 +99,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -108,7 +108,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -117,7 +117,7 @@
 									<li>
 										<div class="notif_content">
 											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-											<p class="notif_time">5:40 PM&nbsp;&nbsp;<i class="fas fa-bolt"></i></p>
+											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
 											<img src="images/notification1.png">
@@ -135,7 +135,7 @@
 				<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>
@@ -152,7 +152,7 @@
 							<div class="other_news uk-margin-remove-top">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -166,7 +166,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -181,7 +181,7 @@
 					<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -195,7 +195,7 @@
 						<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -213,7 +213,7 @@
 				<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">

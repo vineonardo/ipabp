@@ -21,6 +21,6 @@
 		</div>
 	</div>
 	<div class="uk-margin-top">
-		<button style="border:2px solid #EC2436;background-color: #fff;border-radius:10px;padding:11px 16px;">चरका में शामिल हो</button>
+		<button style="border:2px solid #EC2436;background-color: #fff;border-radius:10px;padding:11px 16px;"><span class="abp_icon abp_mancha"></span><span class="pd-left-40">चरका में शामिल हो</span></button>
 	</div>
 </div>

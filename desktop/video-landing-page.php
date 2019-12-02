@@ -422,34 +422,34 @@
 			</div>
 			<div class="popular_tv_shows uk-margin-top" uk-grid>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg">
+					<img src="images/1.jpg" >
 					<p>Master Stroke</p>
-					<div class="populartv_icon"><span><i class="far fa-star"></i></span></div>
+					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				
 			</div>

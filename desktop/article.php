@@ -106,11 +106,11 @@
 					</div>
 
 					<div class="article_featured2">
-						<div class="article_featured1_question">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam?
+						<div class="article_featured1_question uk-position-relative">
+							<span class="abp_icon_tr abp_article_arrow_left abp_article_arrow"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam?
 						</div>
-						<div class="news_featured">
-							<div><p style="font-size: 18px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						<div class="news_featured article_padding">
+							<div><p style="font-size: 18px;"><span class="abp_icon_tr abp_article_arrow abp_article_arrow_right"></span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -121,7 +121,7 @@
 
 
 					<div class="article_featured2">
-						<div class="news_featured">
+						<div class="news_featured article_padding">
 							<div>
 								<p style="border-bottom: 2px solid #EC2346;font-weight: bold;margin-bottom: 15px;"><span style="color: #EC2346;">1. </span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod?</p>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -138,7 +138,7 @@
 							<div>
 								<p style="font-weight: bold;margin-bottom: 15px;"><span style="color: #EC2346;">2. </span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod dolor ipsum dolor sit amet,ipsum dolor sit sit amet?</p>
 							</div>
-							<a href="#"><img src="images/new.jpg" width="100%"></a>
+							<a href="#"><img class="uk-border-rounded-remove-top" src="images/new.jpg" width="100%"></a>
 							<div>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
 							</div>

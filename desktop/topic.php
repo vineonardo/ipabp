@@ -13,12 +13,12 @@
 
 						<div class="my_notifications uk-margin-top">
 							<ul>
-								<li><a class="uk-text-normal" href="#">#HowdyModi<i class="fas fa-angle-right"></i></a></li>
-								<li><a class="uk-text-normal" href="#">#BoxOffice<i class="fas fa-angle-right"></i></a></li>
-								<li><a class="uk-text-normal" href="#">#WhatsApp<i class="fas fa-angle-right"></i></a></li>
-								<li><a class="uk-text-normal" href="#">#AssemblyElection<i class="fas fa-angle-right"></i></a></li>
-								<li><a class="uk-text-normal" href="#">#Chandrayan<i class="fas fa-angle-right"></i></a></li>
-								<li><a class="uk-text-normal" href="#">See More<i class="fas fa-angle-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">#HowdyModi<i uk-icon="chevron-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">#BoxOffice<i uk-icon="chevron-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">#WhatsApp<i uk-icon="chevron-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">#AssemblyElection<i uk-icon="chevron-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">#Chandrayan<i uk-icon="chevron-right"></i></a></li>
+								<li><a class="uk-text-normal" href="#">See More<i uk-icon="chevron-right"></i></a></li>
 							</ul>
 						</div>
 

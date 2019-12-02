@@ -8,10 +8,10 @@
 					</div>
 					<div class="uk-width-1-2 footer_1_right">
 						<div>
-		            		<a href="#"><span><i class="fab fa-facebook-f"></i></span></a>
-		            		<a href="#"><span><i class="fab fa-twitter"></i></span></a>
-		            		<a href="#"><span><i class="fab fa-youtube"></i></span></a>
-		            		<a href="#"><span><i class="fas fa-rss"></i></span></a>
+		            		<a href="#"><span><i uk-icon="facebook"></i></span></a>
+		            		<a href="#"><span><i uk-icon="twitter"></i></span></a>
+		            		<a href="#"><span><i uk-icon="youtube"></i></span></a>
+		            		<a href="#"><span><i uk-icon="rss"></i></span></a>
 	            		</div>
 					</div>
 				</div>
@@ -134,6 +134,7 @@
 		UIkit.slider(slider2,{'autoplay':true,'autoplay-interval':1000});
 		UIkit.slider(slider3,{'autoplay':true,'autoplay-interval':1000});
 		UIkit.slider(slider4,{'autoplay':true,'autoplay-interval':1000});
+		UIkit.cover(".uk-cover-container img");
 	</script>
  </body>
 </html>

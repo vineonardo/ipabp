@@ -7,12 +7,13 @@
 		<link rel="icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
 		<link rel="shortcut icon" type="image/x-icon" href="https://static.abplive.com/frontend/abplive/images/favicon.ico">
 		<link rel="stylesheet" href="css/custom.min.css" />
+		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.3/dist/css/uikit.min.css" /> -->
 		<link rel="stylesheet" href="css/override.css" />
 	</head>
 	<body>
 		<?php include '_adBannerHead.php'; ?>
 		<section>
-			<div class="header uk-position-relative uk-light pl-10">
+			<div class="header header_shadow uk-position-relative uk-light pl-10">
 				<div class="uk-container">
 					<div class="uk-grid uk-grid-small">
 						<div class="header-logo">
@@ -20,7 +21,7 @@
 						</div>
 
 						<div class="uk-width-expand">
-							<div class="custom_menu pt-10 pb-10 uk-position-relative">
+							<div class="custom_menu pt-10 pb-12 uk-position-relative">
 								<div class="uk-grid">
 									<div class="uk-width-medium">
 										<div class="custom_menu_lang">
@@ -37,9 +38,9 @@
 									</div>
 									<div class="uk-width-expand uk-text-center">
 										<div class="custom_menu_live">
-											<a href="#"><span style="background:#fff;color: #EC2346;font-weight: bold;padding:0px 3px;border-radius: 2px;position: relative;">LIVE</span>&nbsp;&nbsp;टीवी</a>
-											<a href="#"><i style="position: relative;top: 2px;" class="far fa-newspaper"></i>&nbsp;&nbsp;माय न्यूज़</a>
-											<a href="#"><i style="position: relative;top: 2px;" class="fab fa-youtube"></i>&nbsp;&nbsp;वीडियो</a>
+											<a href="#"><span class="abp_icon_tr abp_livetv_on"></span>&nbsp;&nbsp;<span class="pd-left-30">टीवी</span></a>
+											<a href="#"><span class="abp_icon_tr abp_news"></span>&nbsp;&nbsp;<span class="pd-left-30">माय न्यूज़</span></a>
+											<a href="#"><i uk-icon="youtube"></i>&nbsp;&nbsp;वीडियो</a>
 										</div>
 									</div>
 									<div class="uk-width-medium uk-light">
@@ -75,7 +76,7 @@
 									<li><a href="#">स्पोर्ट्स</a></li>
 									<li>
 										<div class="uk-inline other_menu" style="vertical-align:top;">
-											<a href="#">अन्‍य&nbsp;&nbsp;<i class="fas fa-chevron-down"></i></a>
+											<a href="#">अन्‍य&nbsp;&nbsp;<i uk-icon="chevron-down"></i></a>
 											<div uk-dropdown>
 												<ul>
 													<li><a href="#">Menu 1</a></li>

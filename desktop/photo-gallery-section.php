@@ -19,7 +19,7 @@
 								<li><a href="#">वर्ल्ड</a></li>
 								<li>
 									<div class="uk-inline other_menu" style="vertical-align:top;">
-									    <a href="#">अन्‍य&nbsp;&nbsp;<i class="fas fa-chevron-down"></i></a>
+									    <a href="#">अन्‍य&nbsp;&nbsp;<i uk-icon="chevron-down"></i></a>
 									    <div uk-dropdown>
 									    	<ul>
 									    		<li><a href="#">Menu 1</a></li>
@@ -38,7 +38,7 @@
 											<div class="news_featured">
 												<a href="#"><img src="images/new.jpg" width="100%"></a>
 												<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-												<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+												<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 												</a>
 												</div>
 											</div>
@@ -47,7 +47,7 @@
 											<div class="news_featured">
 												<a href="#"><img src="images/new.jpg" width="100%"></a>
 												<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-												<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+												<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 												</a>
 												</div>
 											</div>
@@ -59,7 +59,7 @@
 											<div class="news_featured">
 												<a href="#"><img src="images/new.jpg" width="100%"></a>
 												<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-												<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+												<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 												</a>
 												</div>
 											</div>
@@ -68,7 +68,7 @@
 											<div class="news_featured">
 												<a href="#"><img src="images/new.jpg" width="100%"></a>
 												<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-												<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+												<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 												</a>
 												</div>
 											</div>
@@ -77,7 +77,7 @@
 											<div class="news_featured">
 												<a href="#"><img src="images/new.jpg" width="100%"></a>
 												<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-												<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;7 <span>Photos</span></p>
+												<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 												</a>
 												</div>
 											</div>
@@ -99,7 +99,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -111,7 +111,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -120,7 +120,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -129,7 +129,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -138,7 +138,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -159,7 +159,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -168,7 +168,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -180,7 +180,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -189,7 +189,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -198,7 +198,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -219,7 +219,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -231,7 +231,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -240,7 +240,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -249,7 +249,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>
@@ -258,7 +258,7 @@
 								<div class="news_featured">
 									<a href="#"><img src="images/new.jpg" width="100%"></a>
 									<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p>
-									<p><i class="fas fa-photo-video"></i>&nbsp;&nbsp;27 <span>Photos</span></p>
+									<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
 									</a>
 									</div>
 								</div>

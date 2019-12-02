@@ -11,18 +11,19 @@
 											<div class="vid_thumbnail">
 												<img src="images/artboard_op.png">
 											</div>
-											<img src="images/new.jpg" style="height: 492px;" width="100%">
+											<img class="uk-border-rounded-normal" src="images/new.jpg" style="height: 492px;" width="100%">
 										</div>
 
 						<div class="video_content">
 							<h2>ISRO ने जारी की चंद्रमा की सतह की तस्वीरें, चांद पर बड़े पत्थर और छोटे गड्ढे दिखे</h2>
-							<div class="uk-overflow-auto">
+							<div class="uk-overflow-hidden uk-padding-small uk-padding-remove-left">
 								<div class="video_content_details"><span>By : ABP News</span> | <span>Updated: 24 Oct 2019 6:06PM</span> </div>
+								
 							
 								<div class="video_content_social"> 
-									<span><i class="fab fa-facebook-f"></i></span>
-			            			<span><i class="fab fa-twitter"></i></span>
-			            			<span><i class="fab fa-youtube"></i></span>
+									<a href="#"><span class="abp_icon abp_fb"></span></a>
+									<a href="#"><span class="abp_icon abp_twitter"></span></a>
+									<a href="">COPY LINK</a>
 								</div>
 							</div>
 							<p>नई दिल्ली: भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने चंद्रयान-2 ऑर्बिटर पर स्थित ऑर्बिटर हाई रिजोल्यूशन कैमरा (ओएचआरसी) द्वारा ली गईं चंद्रमा की सतह की तस्वीरें जारी की हैं. इसरो के अनुसार, ऑर्बिटर ने चंद्रमा की सतह से 100 किलोमीटर की ऊंचाई से ली गईं ये तस्वीरें चंद्रमा के दक्षिणी ध्रुवीय क्षेत्र में स्थित बोगस्लावस्की ई क्रेटर और उसके आस-पास की हैं. इसका व्यास 14 किलोमीटर और गहराई तीन किलोमीटर है. इसरो ने कहा कि तस्वीरों में चंद्रमा पर बड़े पत्थर और छोटे गड्ढे दिख रहे हैं. उम्मीद जताई जा रही है कि चंद्रमा को लेकर इस तस्वीर के सामने आने के बाद कई अहम जानकारी सामने आ सकती है.</p>
@@ -111,7 +112,7 @@
 							<div class="news_featured">
 								<a href="#"><img src="images/new.jpg" width="100%"></a>
 								<div class="play_btn_div">
-									<img src="images/artboard.png">
+									<img src="images/artboard_op.png">
 								</div>
 								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
 							</div>

@@ -6,15 +6,15 @@
 		<div uk-grid> 
 			<div class="uk-width-expand news_listing">
 
-				<div class="header uk-padding-small">
+				<div class="header_shadow uk-padding-small">
 					<div class="uk-grid-small my_profile" uk-grid>
 
-						<div class="uk-width-1-4">
+						<div class="uk-width-1-5">
 							<div class="section_title">
 								<h2>माय न्यूज़</h2>
 							</div>
 						</div>
-						<div class="uk-width-1-2">
+						<div class="uk-width-3-5">
 							
 									<div class="uk-overflow-auto">
 											<div class="uk-align-left uk-margin-remove">
@@ -28,7 +28,7 @@
 										</div>
 								
 							</div>
-							<div class="uk-width-1-4 uk-padding-remove">
+							<div class="uk-width-1-5 uk-padding-remove">
 								
 									<select>
 										<option>Customize Your New Settings</option>

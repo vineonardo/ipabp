@@ -21,7 +21,7 @@
 								<li><a href="#">वर्ल्ड</a></li>
 								<li>
 									<div class="uk-inline other_menu" style="vertical-align:top;">
-									    <a href="#">अन्‍य&nbsp;&nbsp;<i class="fas fa-chevron-down"></i></a>
+									    <a href="#">अन्‍य&nbsp;&nbsp;<i uk-icon="chevron-down"></i></a>
 									    <div uk-dropdown>
 									    	<ul>
 									    		<li><a href="#">Menu 1</a></li>
