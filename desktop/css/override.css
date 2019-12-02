@@ -1,5 +1,5 @@
 :root{
-	--my-font-size: 16px;
+	--my-font-size: 20px;
 	--my-font-weight: 600;
 	--my-font-color: #EC2436;
 	--colorPrimary: #EC2436;
@@ -11,6 +11,9 @@
 }
 
 *{margin: 0;padding: 0;box-sizing: border-box;}
+html,body,input,select,div,a,strong,textarea{
+    font-family: var(--font);
+}
 body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .fontFeatured{font-size: 1.3rem;}
 .uk-sidebar{max-width: 300px;}
@@ -178,6 +181,20 @@ body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .pb-15{
     padding-bottom: 15px;
 }
+.fz18{
+    font-size: 18px !important;
+    line-height: 24px !important;
+}
+.fz20{
+    font-size: 20px !important;
+    line-height: 26px !important;
+}
+.fz26{
+    font-size: 26px !important;
+    line-height: 36px !important;
+}
+
+
 .pd-left-30{padding-left: 30px;}
 .pd-left-40{padding-left: 40px;}
 .uk-text-semibold{
@@ -414,11 +431,8 @@ body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .uk-search-input::-ms-input-placeholder { /* Microsoft Edge */
   color: #fff!important;
 }
-
 .uk-sidebar .other_news .uk-width-3-5 a{
     display: block;
-    font-size: 18px;
-    line-height: 26px;
     height: 80px;
     overflow: hidden;
 }
@@ -459,7 +473,7 @@ body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .other_menu a i{position: relative;top: 2px;}
 .content{margin-top: 20px;}
 .section_title{overflow: auto;}
-.section_title h2{font-size: 24px;color:var(--my-font-color);text-transform:uppercase;font-weight: bold;float: left;}
+.section_title h2{font-size: 30px;color:var(--my-font-color);text-transform:uppercase;font-weight: bold;float: left; line-height: 1.2; margin: 0 0 15px 0;}
 .section_title a{float: right;background: #fff;border: 1px solid #ccc;text-decoration: none;color: #000;font-weight: bold;padding: 3px 5px;border-radius: 5px;position: relative;top: 3px;font-size: 12px;}
 .section_title a svg{position: relative;bottom: 2px;}
 .section_title hr{float: left;width: 78%;margin-left: 10px;position: relative;bottom: 4px;border-width:2px;border-color: var(--my-font-color);}
@@ -504,7 +518,7 @@ body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .popular_tv_shows img{border-radius: 7px;}
 .popular_tv_shows p{position: absolute;bottom: 15%;z-index: 10;color: #fff;font-size: var(--my-font-size);font-weight: bold;padding-left: 10px;}
 .populartv_icon{text-align: center;width: 100%;bottom: 10px;position: relative;cursor: pointer;}
-.populartv_icon span{background: #fff;border-radius: 50%;padding:4px 10px 10px 10px;border: 2px solid #bbb;}
+.populartv_icon span{display: inline-block;vertical-align: middle;background: #fff;border-radius: 50%;padding: 6px 10px 8px 10px;border: 2px solid #bbb;}
 .populartv_icon span i{color: #999;}
 .populartv_icon span i.active{color:var(--my-font-color);}
 .movie_rev{padding-bottom: 20px;}
