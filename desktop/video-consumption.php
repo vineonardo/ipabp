@@ -11,11 +11,11 @@
 											<div class="vid_thumbnail">
 												<img src="images/artboard_op.png">
 											</div>
-											<img class="uk-border-rounded-normal" src="images/new.jpg" style="height: 492px;" width="100%">
+											<img class="uk-border-rounded-normal uk-border-rounded-remove-bottom" src="images/new.jpg" style="height: 492px;" width="100%">
 										</div>
 
 						<div class="video_content">
-							<h2 class="fz32">ISRO ने जारी की चंद्रमा की सतह की तस्वीरें, चांद पर बड़े पत्थर और छोटे गड्ढे दिखे</h2>
+							<h2 class="fz32 uk-margin-remove-bottom">ISRO ने जारी की चंद्रमा की सतह की तस्वीरें, चांद पर बड़े पत्थर और छोटे गड्ढे दिखे</h2>
 							<div class="uk-overflow-hidden uk-padding-small uk-padding-remove-left">
 								<div class="video_content_details fz16"><span>By : ABP News</span> | <span>Updated: 24 Oct 2019 6:06PM</span> </div>
 								
@@ -26,7 +26,7 @@
 									<a href="">COPY LINK</a>
 								</div>
 							</div>
-							<p class="fz24">नई दिल्ली: भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने चंद्रयान-2 ऑर्बिटर पर स्थित ऑर्बिटर हाई रिजोल्यूशन कैमरा (ओएचआरसी) द्वारा ली गईं चंद्रमा की सतह की तस्वीरें जारी की हैं. इसरो के अनुसार, ऑर्बिटर ने चंद्रमा की सतह से 100 किलोमीटर की ऊंचाई से ली गईं ये तस्वीरें चंद्रमा के दक्षिणी ध्रुवीय क्षेत्र में स्थित बोगस्लावस्की ई क्रेटर और उसके आस-पास की हैं. इसका व्यास 14 किलोमीटर और गहराई तीन किलोमीटर है. इसरो ने कहा कि तस्वीरों में चंद्रमा पर बड़े पत्थर और छोटे गड्ढे दिख रहे हैं. उम्मीद जताई जा रही है कि चंद्रमा को लेकर इस तस्वीर के सामने आने के बाद कई अहम जानकारी सामने आ सकती है.</p>
+							<p class="fz24 uk-margin-remove-top">नई दिल्ली: भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने चंद्रयान-2 ऑर्बिटर पर स्थित ऑर्बिटर हाई रिजोल्यूशन कैमरा (ओएचआरसी) द्वारा ली गईं चंद्रमा की सतह की तस्वीरें जारी की हैं. इसरो के अनुसार, ऑर्बिटर ने चंद्रमा की सतह से 100 किलोमीटर की ऊंचाई से ली गईं ये तस्वीरें चंद्रमा के दक्षिणी ध्रुवीय क्षेत्र में स्थित बोगस्लावस्की ई क्रेटर और उसके आस-पास की हैं. इसका व्यास 14 किलोमीटर और गहराई तीन किलोमीटर है. इसरो ने कहा कि तस्वीरों में चंद्रमा पर बड़े पत्थर और छोटे गड्ढे दिख रहे हैं. उम्मीद जताई जा रही है कि चंद्रमा को लेकर इस तस्वीर के सामने आने के बाद कई अहम जानकारी सामने आ सकती है.</p>
 							<div class="floated_section_title uk-margin-top">
 								<div class="read_more_section">
 									<h6>
@@ -191,15 +191,18 @@
 				<div class="uk-sidebar">
 			 		<?php include '_adBanner_square.php'; ?>
 					<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left" >
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
+						<div class="uk-grid-collapse" uk-grid>
+							<div class="uk-width-2-3">
+								<div class="p-10">
+									<a href="#" class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</a>
+									<div class="uk-text-muted uk-text-small pt-10">Sponsored</div>	
 								</div>
 							</div>
+							<div class="uk-width-1-3">
+								<a href="#"><img src="images/img-1-1.jpg" width="150" height="150" /></a>
+							</div>
+						</div>
+					</div>
 
 					<div class="uk-margin-top">
 						<div class="section_title">
@@ -264,6 +267,21 @@
 									</div>
 								</div>
 							</div>
+
+							<div class="other_news">
+								<div class="uk-grid-small" uk-grid>
+									<div class="uk-width-2-3">
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+									</div>
+									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
+										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
+											<img class="play_btn_div_small" src="images/artboard.png">
+										</div>
+										<a href="#"><img src="images/article1.png" width="100%"></a>
+									</div>
+								</div>
+							</div>
+							
 						<div class="margEight">
 			 			<?php include '_adBanner_square.php'; ?>
 						</div>
