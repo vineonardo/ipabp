@@ -124,6 +124,9 @@ body{color: #000;background-color: #fff;margin:0;padding:0;font-size: 14px;}
 .uk-border-bottom{
     border-bottom: 2px solid var(--colorPrimary);
 }
+.bb-smoke{
+    border-bottom: 1px solid var(--Grey);
+}
 .uk-border-rounded-medium{
     border-radius: 6px;
 }
