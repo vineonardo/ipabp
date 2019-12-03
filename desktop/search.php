@@ -74,35 +74,35 @@
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 								</div>
 								<div class="uk-width-1-2">
@@ -111,35 +111,35 @@
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 					            	<div class="news_featured uk-margin-top">
 						               <a href="#"><img src="images/article2.png" width="100%"></a>
 										<div class="play_btn_div">
 											<img src="images/artboard_op.png">
 										</div>
-										<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+										<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 					            	</div>
 								</div>
 							</div>
@@ -152,7 +152,7 @@
 							<div class="other_news">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>
@@ -168,7 +168,7 @@
 							<div class="other_news uk-margin-remove-top">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>
@@ -179,7 +179,7 @@
 							<div class="other_news">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -193,7 +193,7 @@
 							<div class="other_news">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>
@@ -204,7 +204,7 @@
 							<div class="other_news">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -221,7 +221,7 @@
 							<div class="other_news">
 								<div uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>

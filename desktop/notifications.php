@@ -4,10 +4,10 @@
 
 <section>
 	<div class="uk-container content">
-		<div uk-grid>
+		<div class="uk-grid-small" uk-grid>
 			<div class="uk-width-expand">
 
-				<div uk-grid>
+				<div class="uk-grid-small" uk-grid>
 					<div class="uk-width-2-5">
 						<div class="my_notifications">
 							<ul>
@@ -135,7 +135,7 @@
 				<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<a href="#"><img src="images/article1.png" width="100%"></a>
@@ -152,7 +152,7 @@
 							<div class="other_news uk-margin-remove-top">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -166,7 +166,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -181,7 +181,7 @@
 					<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -195,7 +195,7 @@
 						<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -213,7 +213,7 @@
 				<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">

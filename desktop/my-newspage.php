@@ -3,7 +3,7 @@
 ?>
 <section>
 	<div class="uk-container content">
-		<div uk-grid> 
+		<div class="uk-grid-small" uk-grid> 
 			<div class="uk-width-expand news_listing">
 
 				<div class="header_shadow uk-padding-small">
@@ -49,7 +49,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
 				</div>
 
 				<div class="news_featured">
@@ -59,7 +59,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
 				</div>
 
 				<div class="news_featured">
@@ -69,7 +69,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
 				</div>
 			</div>
 			<div class="uk-sidebar">
@@ -78,7 +78,7 @@
 					<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -99,7 +99,7 @@
 						<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -112,7 +112,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -125,7 +125,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -138,7 +138,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -156,7 +156,7 @@
 						<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -170,7 +170,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -184,7 +184,7 @@
 							<div class="other_news">
 								<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
 										<div class="play_btn_div">
@@ -265,7 +265,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
 				</div>
 			</div></div></div>
 
@@ -280,7 +280,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
 				</div>
 			</div></div></div>
 
@@ -294,7 +294,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.Lorem ipsum dolor sit amet, consectetur sed do eiusmod utLorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz24">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
 				</div>
 			</div></div></div>
 	</section>

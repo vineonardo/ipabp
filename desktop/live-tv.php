@@ -207,7 +207,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -218,7 +218,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -229,7 +229,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -240,7 +240,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -251,7 +251,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -262,7 +262,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -292,7 +292,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -303,7 +303,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -314,7 +314,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -325,7 +325,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -336,7 +336,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -347,7 +347,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -377,7 +377,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -388,7 +388,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -399,7 +399,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -410,7 +410,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -421,7 +421,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>
@@ -432,7 +432,7 @@
 								<div class="play_btn_div">
 									<img src="images/artboard_op.png">
 								</div>
-								<div class="news_content"><a href="#"><p>Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
+								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
 			            	</div>
 			            </div>
 			        </li>

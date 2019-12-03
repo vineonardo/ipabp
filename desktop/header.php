@@ -18,7 +18,7 @@
 				<div class="uk-container">
 					<div class="uk-grid uk-grid-small">
 						<div class="header-logo">
-							<img src="images/logo.png" class="uk-position-left-center" />	
+							<a href="#"><img src="images/logo.png" class="uk-position-left-center" /></a>	
 						</div>
 
 						<div class="uk-width-expand">
@@ -69,8 +69,37 @@
 							</div>
 							<div class="custom_menuitems">
 								<ul>
-									<li class="active"><a href="#">न्यूज़</a></li>
-									<li><a href="#">बिज़नेस</a></li>
+									<!-- <li class="active"><a href="#">न्यूज़</a></li> -->
+									<li>
+										<div class="uk-inline other_menu" style="vertical-align:top;">
+											<a href="#">न्यूज़</a>
+											<div uk-dropdown>
+												<ul>
+													<li><a href="#">पॉलिटिक्स</a></li>
+													<li><a href="#">वर्ल्ड</a></li>
+													<li><a href="#">इंडिया</a></li>
+													<li><a href="#">स्टेट्स</a></li>
+													<li><a href="#">क्राइम</a></li>
+													<li><a href="#">एनवायरनमेंट</a></li>
+													<li><a href="#">जॉब्स</a></li>
+													<li><a href="#">एजुकेशन</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li>
+										<div class="uk-inline other_menu" style="vertical-align:top;">
+											<a href="#">बिज़नेस</a>
+											<div uk-dropdown>
+												<ul>
+													<li><a href="#">ट्रेंडिंग</a></li>
+													<li><a href="#">टेक्नोलॉजी</a></li>
+													<li><a href="#">इंडिया</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+
 									<li><a href="#">लाइफस्टाइल</a></li>
 									<li><a href="#">टेक्नोलॉजी</a></li>
 									<li><a href="#">एंटरटेनमेंट</a></li>
@@ -80,9 +109,18 @@
 											<a href="#">अन्‍य&nbsp;&nbsp;<i uk-icon="chevron-down"></i></a>
 											<div uk-dropdown>
 												<ul>
-													<li><a href="#">Menu 1</a></li>
-													<li><a href="#">Menu 2</a></li>
-													<li><a href="#">Menu 3</a></li>
+													<li><a href="#">फोटो गैलरी</a></li>
+													<li><a href="#">गुड डील</a></li>
+													<li><a href="#">एक्सप्लेनेर</a></li>
+													<li><a href="#">चेहरा</a></li>
+													<li><a href="#">ट्रेंडिंग</a></li>
+													<li><a href="#">पार्टनर्स</a></li>
+													<li><a href="#">एस्ट्रोलॉजी</a></li>
+													<li><a href="#">एलेक्शंस</a></li>
+													<li><a href="#">ओपिनियन</a></li>
+													<li><a href="#">जेंडर</a></li>
+													<li><a href="#">ऑटो</a></li>
+													<li><a href="#">काम की बात</a></li>
 												</ul>
 											</div>
 										</div>
