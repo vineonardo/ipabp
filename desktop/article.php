@@ -6,16 +6,19 @@
 	<?php include '_breadcrumb.php'; ?>
 </div>
 
-<section>
+<section class="uk-position-relative">
 	<div class="uk-container content">
+		<div><?php include '_social_share.php'; ?></div>
 		<div class="uk-grid-small" uk-grid> 
-			 <div class="uk-width-expand">
+			 <div class="uk-width-expand uk-position-relative">
+			 	<?php include '_social_share_bw.php'; ?>
 			 		<div class="section_title">
 						<h2>विश्व</h2>
 					</div>
 					<div class="article_content">
 						<h1 class="fz32">राष्ट्रपति ट्रंप ने फिर दोहराई मध्यस्थता की बात, कहा- अगर दोनों देश मानेंगे तो मैं मदद करूंगा</h1>
 						<div>
+
 							<p class="live-tv-label fz24">&nbsp;अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता की पेशकश कर चुके हैं.</p>
 							<p class="live-tv-label fz24">&nbsp;ट्रंप ने कहा कि कश्मीर मामले में वो मदद करना चाहते हैं लेकिन ऐसा वो तभी करेंगे जब भारत इसके लिए तैयार हो.</p>
 						</div>
