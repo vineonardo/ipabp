@@ -43,7 +43,7 @@
 					</div>
 					<div class="news_featured">
 						<a href="#" class="uk-display-block" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकले">
-							<img src="images/centre.png" width="100%" alt="iamge_name">
+							<img src="images/16-9.jpg" width="100%" alt="iamge_name">
 							<div class="news_content">
 								<h1 class="fontFeatured fz26 uk-margin-remove">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</h1>
 							</div>
