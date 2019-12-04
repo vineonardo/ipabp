@@ -11,7 +11,7 @@
 											<div class="vid_thumbnail">
 												<img src="images/artboard_op.png">
 											</div>
-											<img class="uk-border-rounded-normal uk-border-rounded-remove-bottom" src="images/new.jpg" style="height: 492px;" width="100%">
+											<img class="uk-border-rounded-normal uk-border-rounded-remove-bottom" src="images/16-9.jpg" width="100%">
 										</div>
 
 						<div class="video_content">
@@ -49,31 +49,13 @@
 
 					<div class="uk-grid-small" uk-grid>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 					</div>
 				</div>
@@ -88,25 +70,13 @@
 
 					<div class="uk-grid-small" uk-grid>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeatured.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeatured.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								
-								<div class="news_content"><a href="#"><p class="fz18">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
-							</div>
+							<?php include '_newsFeatured.php'; ?>
 						</div>
 					</div>
 				</div>
@@ -121,58 +91,22 @@
 
 					<div class="uk-grid-small" uk-grid>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut...</p></a></div>
-							</div>
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-1">
 						<div class="floated_section_title uk-margin-top">
@@ -191,17 +125,7 @@
 				<div class="uk-sidebar">
 			 		<?php include '_adBanner_square.php'; ?>
 					<div class="other_news">
-						<div class="uk-grid-collapse" uk-grid>
-							<div class="uk-width-2-3">
-								<div class="p-10">
-									<a href="#" class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</a>
-									<div class="uk-text-muted uk-text-small pt-10">Sponsored</div>	
-								</div>
-							</div>
-							<div class="uk-width-1-3">
-								<a href="#"><img src="images/img-1-1.jpg" width="150" height="150" /></a>
-							</div>
-						</div>
+						<?php include '_newsListItemSidebar.php'; ?>
 					</div>
 
 					<div class="uk-margin-top">
@@ -213,74 +137,22 @@
 							<div class="news_content"><a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a></div>
 						</div>
 						<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+							<?php include '_newsListItemSidebarVideo.php'; ?>	
+						</div>
 						
 
 						<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
-
-							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+							<?php include '_newsListItemSidebarVideo.php'; ?>	
+						</div>
 						<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
-
-							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+							<?php include '_newsListItemSidebarVideo.php'; ?>	
+						</div>
+						<div class="other_news">
+							<?php include '_newsListItemSidebarVideo.php'; ?>	
+						</div>
+						<div class="other_news">
+							<?php include '_newsListItemSidebarVideo.php'; ?>	
+						</div>
 							
 						<div class="margEight">
 			 			<?php include '_adBanner_square.php'; ?>

@@ -39,19 +39,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -61,19 +61,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -86,19 +86,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -108,19 +108,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -130,19 +130,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -165,19 +165,19 @@
 									<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
 			                                <div class="uk-width-2-3">
 			                                    <div class="uk-border-rounded uk-overflow-hidden">
-			                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+			                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
 			                                </div>
 			                                <div class="uk-width-1-3">
 			                                    <div class="uk-flex uk-flex-column uk-flex-between">
-			                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+			                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-			                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+			                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
 			                                    </div>
 			                                </div>
 			                            </div>
 
 			                            <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-										<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+										<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 										</a>
 										</div>
 								</div>
@@ -190,19 +190,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -212,19 +212,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -234,19 +234,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -256,19 +256,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -290,19 +290,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -312,19 +312,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -337,19 +337,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -359,19 +359,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -381,19 +381,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -415,19 +415,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -440,19 +440,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -462,19 +462,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -484,19 +484,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>
@@ -506,19 +506,19 @@
 						<div class="uk-grid uk-grid-smaller uk-grid-match uk-padding-small">
                                 <div class="uk-width-2-3">
                                     <div class="uk-border-rounded uk-overflow-hidden">
-                                    <img class="uk-border-remove" src="images/new.jpg" alt="Featured Article" /></div>
+                                    <img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article" /></div>
                                 </div>
                                 <div class="uk-width-1-3">
                                     <div class="uk-flex uk-flex-column uk-flex-between">
-                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/new.jpg" alt="Featured Article"/></div>
+                                        <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove" src="images/4-3.jpg" alt="Featured Article"/></div>
 
-                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/new.jpg" alt="Featured Article"/></div>
+                                         <div class="uk-border-rounded uk-overflow-hidden"><img class="uk-border-remove"  src="images/4-3.jpg" alt="Featured Article"/></div>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="news_content"><a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p>
-							<p><span class="abp_icon abp_photos"></span><span class="pd-left-30">&nbsp;&nbsp;<span class="photos_no">7</span> Photos</span></p>
+							<p class="fz16"><img class="photos_icon" src="images/photo.png">&nbsp;&nbsp;<span class="photos_no uk-text-bold">07</span> <span>Photos</span></p>
 							</a>
 							</div>
 					</div>

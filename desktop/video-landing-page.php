@@ -28,7 +28,7 @@
 											<div class="vid_thumbnail">
 												<img src="images/artboard_op.png">
 											</div>
-											<img src="images/new.jpg" style="height: 400px;" width="100%">
+											<img style="border-top-left-radius: 8px;border-bottom-left-radius: 8px;" src="images/16-9.jpg" width="100%">
 										</div>
  						    		</div>
  						    		<div class="uk-width-2-5 trending_videos">
@@ -36,7 +36,7 @@
  						    				<h2>Top 10 Trending Videos</h2>
  						    				<div class="trending_vid_each" uk-grid>
  						    					<div class="uk-width-2-5">
-	 						    					<img src="images/new.jpg">
+	 						    					<img src="images/16-9.jpg">
  						    					</div>
  						    					<div class="uk-width-3-5 trending_vid_each_row">
  						    						<p class="fz18">इन पुलिसकर्मियों के कौन काटेगा चालान? खुलेआम तोड़ रहे ट्रैफिक नियम</p>
@@ -44,7 +44,7 @@
  						    				</div>
  						    				<div class="trending_vid_each" uk-grid>
  						    					<div class="uk-width-2-5">
-	 						    					<img src="images/new.jpg">
+	 						    					<img src="images/16-9.jpg">
  						    					</div>
  						    					<div class="uk-width-3-5 trending_vid_each_row">
  						    						<p class="fz18">इन पुलिसकर्मियों के कौन काटेगा चालान? खुलेआम तोड़ रहे ट्रैफिक नियम</p>
@@ -52,7 +52,7 @@
  						    				</div>
  						    				<div class="trending_vid_each" uk-grid>
  						    					<div class="uk-width-2-5">
-	 						    					<img src="images/new.jpg">
+	 						    					<img src="images/16-9.jpg">
  						    					</div>
  						    					<div class="uk-width-3-5 trending_vid_each_row">
  						    						<p class="fz18">इन पुलिसकर्मियों के कौन काटेगा चालान? खुलेआम तोड़ रहे ट्रैफिक नियम</p>
@@ -60,7 +60,7 @@
  						    				</div>
  						    				<div class="trending_vid_each" uk-grid>
  						    					<div class="uk-width-2-5">
-	 						    					<img src="images/new.jpg">
+	 						    					<img src="images/16-9.jpg">
  						    					</div>
  						    					<div class="uk-width-3-5 trending_vid_each_row">
  						    						<p class="fz18">इन पुलिसकर्मियों के कौन काटेगा चालान? खुलेआम तोड़ रहे ट्रैफिक नियम</p>
@@ -78,18 +78,18 @@
  			<div class="uk-sidebar">
  				<?php include '_adBanner_square.php'; ?>
 					<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
+						<div class="uk-grid-small" uk-grid>
 									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
 									</div>
 									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
+										<div class="play_btn_div" style="position: absolute;right: 8px;top:8px;">
 											<img class="play_btn_div_small" src="images/artboard.png">
 										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
+										<a href="#"><img src="images/1-1.jpg" width="100%"></a>
 									</div>
-								</div>
-							</div>
+								</div>	
+					</div>
  			</div>
  		</div>
  	</div>
@@ -110,68 +110,37 @@
 			    <ul class="uk-slider-items uk-grid-small" uk-grid>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
+			               
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
+			               
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
+			               
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
+			               
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
+			               
 			            </div>
 			        </li>
 			    </ul>
@@ -197,30 +166,12 @@
 				<div class="uk-width-expand">
 					<div class="uk-grid-small" uk-grid>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p></a></div>
-							</div>
+							 <?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 						<div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p></a></div>
-							</div>
+							 <?php include '_newsFeaturedVideo.php'; ?>
 						</div><div class="uk-width-1-3">
-							<div class="news_featured">
-								<a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit....</p></a></div>
-							</div>
+							 <?php include '_newsFeaturedVideo.php'; ?>
 						</div>
 					</div></div>
 				<div class="uk-sidebar">
@@ -250,68 +201,32 @@
 			    <ul class="uk-slider-items uk-grid-small" uk-grid>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			    </ul>
@@ -337,68 +252,32 @@
 			    <ul class="uk-slider-items uk-grid-small" uk-grid>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			    </ul>
@@ -422,32 +301,32 @@
 			</div>
 			<div class="popular_tv_shows uk-margin-top" uk-grid>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star"/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
-					<img src="images/1.jpg" >
+					<img src="images/1-1.jpg" >
 					<p>Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
@@ -471,68 +350,32 @@
 			    <ul class="uk-slider-items uk-grid-small" uk-grid>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			               <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			    </ul>
@@ -560,68 +403,32 @@
 			    <ul class="uk-slider-items uk-grid-small" uk-grid>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel">
-			               <div class="news_featured">
-				               <a href="#"><img src="images/new.jpg" width="100%"></a>
-								<div class="play_btn_div">
-									<img src="images/artboard_op.png">
-								</div>
-								<div class="news_content"><a href="#"><p class="fz18">Lorem ipsum dolor sit amet, consectetur sed do eiusmod ut.</p></a></div>
-			            	</div>
+			                <?php include '_newsFeaturedVideo.php'; ?>
 			            </div>
 			        </li>
 			    </ul>

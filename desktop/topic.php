@@ -22,30 +22,15 @@
 							</ul>
 						</div>
 
-
-						<div class="news_featured uk-margin-top">
-							<a href="#"><img src="images/article1.png" width="100%"></a>
-							<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-							<div class="news_content"><a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p></a></div>
+						<div class="uk-margin-top">
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
-
-						<div class="news_featured uk-margin-top">
-							<a href="#"><img src="images/article1.png" width="100%"></a>
-							<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-							<div class="news_content"><a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p></a></div>
+						<div class="uk-margin-top">
+							<?php include '_newsFeaturedVideo.php'; ?>
 						</div>
-
-						<div class="news_featured uk-margin-top">
-							<a href="#"><img src="images/article1.png" width="100%"></a>
-							<div class="play_btn_div">
-								<img src="images/artboard_op.png">
-							</div>
-							<div class="news_content"><a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर...</p></a></div>
-						</div>						
+						<div class="uk-margin-top">
+							<?php include '_newsFeaturedVideo.php'; ?>
+						</div>					
 					</div>
 
 				</div>
@@ -70,66 +55,24 @@
 
 
 							<div class="news_featured uk-margin-top">
-								<a href="#"><img src="images/article2.png" width="100%"></a>
-								<div class="news_content"><a href="#"><p class="fz24">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a></div>
+								<a href="#" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें">
+									<img src="images/16-9.jpg" width="100%" />
+									<div class="news_content">
+										<h2 class="fz20 p-10">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</h2>
+									</div>
+								</a>
 							</div>
 
 							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemVideo.php'; ?>
 							</div>
 
 							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
 
-							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+															<?php include '_newsListItemVideo.php'; ?>
 
 							
-							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p>पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+														</div>
 
 
 						</div>
@@ -138,14 +81,7 @@
 
 
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebar.php'; ?>
 							</div>
 
 							<div class="section_title uk-margin-top">
@@ -154,59 +90,19 @@
 							</div>
 
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebarVideo.php'; ?>
 							</div>
 
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebarVideo.php'; ?>
 							</div>
 
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebarVideo.php'; ?>
 							</div>
 
 							<div class="other_news">
-								<div uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebarVideo.php'; ?>
 							</div>
 
 							<div class="uk-margin-top">

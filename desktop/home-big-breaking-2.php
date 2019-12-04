@@ -2,57 +2,61 @@
 	include 'header.php';
 ?>
 
+
 <section>
 	<div class="uk-container content">
-	<div class="uk-grid-small" uk-grid>
-	
-
-			<div class="uk-width-expand">
-				<div class=" vid_li">
-			<div class="uk-grid-small" uk-grid>
-
- 						    		<div class="uk-width-3-5">
-										<div class="uk-position-relative uk-text-center">
-											
-											<img style="border-top-left-radius: 8px;border-bottom-left-radius: 8px;height: 400px;" src="images/new.jpg" width="100%">
-										</div>
- 						    		</div>
- 						    		<div class="uk-width-2-5">
- 						    			<div class="trending_videos_section">
- 						    				<div class="article_content">
- 						    				<h1 class="fz24 uk-border-remove">डोनाल्ड ट्रंप ने कसा तंज, कहा- हिलेरी क्लिंटन को 2020 का राष्ट्रपति चुनाव लड़ना चाहिए</h1>
- 						    				<h2 class="fz18 red-label uk-border-remove uk-margin-remove">रिलेटेड स्टोरीज</h2>
- 						    				<p class="live-tv-label fz18">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
-											<p class="live-tv-label fz18">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
-											<p class="live-tv-label fz18">&nbsp;हरियाणा में कांग्रेस ने आईएनएलडी के ‘जर्जर किले’ में लगाई सेंध, तीन नेताओं ने थामा ‘हाथ’</p>
- 						    				</div>
- 						    			</div>
- 						    		</div>
- 						    	</div>
-
-	</div></div> 
-
-
-<div class="uk-sidebar">
- 				<?php include '_adBanner_square.php'; ?>
-					<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</p></a>
+		<div uk-grid>
+			<div class="uk-width-1-2">
+				<div class="uk-position-relative uk-text-center">
+					<img style="border-top-left-radius: 8px;border-bottom-left-radius: 8px;" src="images/16-9.jpg" width="100%" />
+				</div>
+			</div>
+			<div class="uk-width-1-2">
+				<div class="trending_videos">
+ 					<div>
+ 						<div class="article_content scrollable_content scrollable_ht_16_9  uk-overflow-auto">
+ 							<h1 class="fz32 uk-border-remove uk-padding-remove-bottom">डोनाल्ड ट्रंप ने कसा तंज, कहा- हिलेरी क्लिंटन को 2020 का राष्ट्रपति चुनाव लड़ना चाहिए</h1>
+ 							<h2 class="fz22 red-label uk-border-remove uk-margin-remove uk-text-bold">रिलेटेड स्टोरीज</h2>
+							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 						</div>
+ 					</div>
+ 				</div>
+			</div>
+		</div>
+	</div>
+	<div class="uk-margin-top uk-padding-small">
+		<div class="breaking_big uk-ribbon fz20"><span class="high">Breaking News :</span><span class="low">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में आतंकियों से बातचीत के सारे कोडवर्ड में</span></div>
+	</div>
+	<div class="uk-container content">
+		<div uk-grid>
+			<div class="uk-width-1-2">
+				<div class="news_section">
+							<div class="news_featured">
+								<a href="#" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें">
+									<img src="images/16-9.jpg" width="100%" />
+									<div class="uk-ribbon"><span class="high">Breaking</span><span class="low">News</span></div>
+									<div class="news_content">
+										<h2 class="fz20 p-10 uk-text-bold uk-text-center">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में किया बदलाव</h2>
 									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								</a>
 							</div>
- 			</div>
-
-				</div>		</div>	    	
-</section>
-
+						</div>
+			</div>
+			<div class="uk-width-1-2">
+ 						<div class="article_content scrollable_content">
+ 							<h2 class="fz22 red-label uk-border-remove uk-margin-remove uk-text-bold">मुख्या समाचार</h2>
+ 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<p class="live-tv-label fz20">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
+ 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<p class="live-tv-label fz20">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
+ 							
+ 						</div>
+ 					</div>
+		</div>
+	</div>
 <section>
 	<div class="uk-container content">
 		<div class="uk-grid-small" uk-grid>
@@ -65,15 +69,33 @@
 						<div class="news_section">
 							<div class="news_featured">
 								<a href="#" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें">
-									<img src="images/article2.png" width="100%" />
+									<img src="images/16-9.jpg" width="100%" />
 									<div class="news_content">
 										<h2 class="fz20 p-10">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</h2>
 									</div>
 								</a>
 							</div>
-						</div>                   		 
+						</div>
+						<div class="breaking-alert uk-alert uk-alert-border uk-margin-bottom">
+		                        <h2 class="fz20 p-10"><span class="red-label uk-text-uppercase uk-text-bold">Breaking News:</span>
+		                        <span>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये</span></h2>
+                   		 </div>
+						 
+                   		 
 						<div class="other_news">
 							<?php include '_newsListItemVideo.php'; ?>
+						</div>
+
+						<div class="other_news uk-margin-top">
+							<?php include '_newsListItem.php'; ?>
+						</div>
+
+						<div class="other_news uk-margin-top">
+							<?php include '_newsListItem.php'; ?>
+						</div>
+
+						<div class="other_news uk-margin-top">
+							<?php include '_newsListItem.php'; ?>
 						</div>
 
 						<div class="other_news uk-margin-top">
@@ -82,10 +104,36 @@
 						
 			</div>
 		</div>
-		<div class="uk-width-2-3">
-			
+		<div class="uk-width-2-3 uk-margin-top">
+			<div class="uk-grid-small" uk-grid>
+				<div class="uk-width-expand">
+					<div class="news_featured">
+						<a href="#" class="uk-display-block" title="पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकले">
+							<img src="images/centre.png" width="100%" alt="iamge_name">
+							<div class="news_content">
+								<h1 class="fontFeatured fz26 uk-margin-remove">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर, चुनाव लड़ने की अटकलें</h1>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="uk-sidebar">
+				<?php include '_adBanner_square.php'; ?>
+					<div class="other_news">
+						<div class="uk-grid-collapse" uk-grid>
+							<div class="uk-width-3-5">
+								<div class="p-10">
+									<a href="#" class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</a>
+									<div class="uk-text-muted uk-text-small">Sponsored</div>	
+								</div>
+							</div>
+							<div class="uk-width-2-5">
+								<a href="#"><img src="images/img-1-1.jpg" width="150" height="150" /></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 						<div class="uk-grid-small margFive" uk-grid>
-						
 							<div class="uk-width-1-2">
 								<div class="section_title">
 									<h2>आपके लिए</h2>
@@ -189,7 +237,6 @@
 			</div>
 		</div>
 	</section>
-
 <section class="new_section">
 		<div class="uk-container">
 			<div class="section_title">

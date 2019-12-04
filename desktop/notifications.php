@@ -26,7 +26,7 @@
 								<ul class="notif_list">
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -35,7 +35,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -44,7 +44,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -53,7 +53,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -62,7 +62,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -71,7 +71,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -80,7 +80,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -89,7 +89,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -98,7 +98,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -107,7 +107,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -116,7 +116,7 @@
 									</li>
 									<li>
 										<div class="notif_content">
-											<p class="notif_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+											<p class="notif_text  fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 											<p class="notif_time">5:40 PM&nbsp;&nbsp;<span class="abp_icon abp_notifications"></span></p>
 										</div>
 										<div class="notif_img">
@@ -133,15 +133,8 @@
 			<div class="uk-sidebar">
 				<?php include '_adBanner_square.php'; ?>
 				<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+					<?php include '_newsListItemSidebar.php'; ?>			
+				</div>
 
 				<div class="section_title uk-margin-top">
 					<h2>टॉप न्यूज़</h2>
@@ -149,80 +142,26 @@
 				</div>	
 				
 				
-							<div class="other_news uk-margin-remove-top">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
-
 							<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+								<?php include '_newsListItemSidebarVideo.php'; ?>			
 							</div>
-					
-
-					<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+							<div class="other_news">
+								<?php include '_newsListItemSidebarVideo.php'; ?>			
 							</div>
-						
-						<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
+							<div class="other_news">
+								<?php include '_newsListItemSidebarVideo.php'; ?>			
+							</div>
+							<div class="other_news">
+								<?php include '_newsListItemSidebarVideo.php'; ?>			
 							</div>
 
 					<div class="uk-margin-top">
 						<?php include '_adBanner_square.php'; ?>
 					</div>
 				
-				<div class="other_news">
-								<div class="uk-grid-small" uk-grid>
-									<div class="uk-width-2-3">
-										<a href="#"><p class="fz18">पहलवान बबीता फोगाट का सब इंस्पेक्टर पद से दिया इस्तीफा मंजूर</p></a>
-									</div>
-									<div class="uk-width-1-3 uk-position-relative uk-padding-remove-left">
-										<div class="play_btn_div">
-											<img class="play_btn_div_small" src="images/artboard.png">
-										</div>
-										<a href="#"><img src="images/article1.png" width="100%"></a>
-									</div>
-								</div>
-							</div>
+					<div class="other_news">
+						<?php include '_newsListItemSidebarVideo.php'; ?>			
+					</div>
 
 			</div>
 		</div>
