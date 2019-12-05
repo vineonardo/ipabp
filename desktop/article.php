@@ -60,62 +60,30 @@
         </div>
 
 					<div class="article_data">
-						<p><span>न्यूयॉर्क : </span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p><span>Lorem ipsum dolor sit amet</span></p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p class="fz22"><span>न्यूयॉर्क : </span>अमेरिका के राष्ट्रपति डोनल्ड ट्रंप एक बार फिर भारत पाकिस्तान के रिश्ते पर बोले हैं. ट्रंप ने एक बार फिर दोनों देशों के बीच मध्यस्थता की बात दोहराई है. ट्रंप ने कहा है कि भारत और पाकिस्तान की सोच काफी अलग है जिसकी वजह से मुझे चिंता है. लेकिन अगर दोनों मानेंगे तो मैं मदद करूंगा और उन्हें मेरी मदद पसंद भी आएगी. राष्ट्रपति ट्रंप ने कहा, ''कल प्रधानमंत्री इमरान खान से अच्छी मुलाकात हुई, वो लोग बात कर रहे हैं. भारत चाहेगा तो मैं मदद करूंगा. दोनों देशों को मेरी मदद पंद आएगी लेकिन पहले दोनों मानें तो सही. दोनों देशों के विचार अलग हैं, इसे लेकर मैं चिंतित हूं.'' बता दें कि यह छठा मौका है जब राष्ट्रपति ट्रंप ने दोनों देशों के बीच मध्यस्थता की बात कही है.</p>
+						
+						<p class="fz22">इससे पहले पीएम मोदी ने इस ऐतिहासिक पल में देशवासियों को गवाह बनने की अपील की है. प्रधानमंत्री मोदी ने वैज्ञानिकों को बधाई दी है और देश के लोगों से अनुरोध किया कि सभी देर रात चंद्रयान-2 की लैंडिंग देखें और इस दौरान अपनी तस्वीर क्लिक कर ट्वीट करें. पीएम मोदी का कहना है कि वह उन तस्वीरों को रिट्वीट करेंगे.</p>
 
-						<p><span>Lorem ipsum dolor sit amet</span></p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p class="fz22">बता दें कि कल पाक पीएम इमरान खान से राष्ट्रपति ट्रंप की मुलाकात के दौरान कश्मीर का मुद्दा उठा था लेकिन उन्हें मुहं की खानी पड़ी थी. पाकिस्तान के प्रधानमंत्री को डोनाल्ड ट्रंप ने झटका देते हुए साफ किया कि वो तैयार तो हैं लेकिन भारत की सहमति भी जरूरी है. जाहिर है कि भारत, कश्मीर को द्विपक्षीय मुद्दा मानता है और ये साफ है कि भारत इसमें किसी तीसरे की भूमिका नहीं मानता है. ट्रंप ने कहा कि अकेले इमरान खान के तैयार होने से कुछ नहीं होता, दूसरे पक्ष का तैयार होना भी जरूरी है. इसके साथ ही उन्होंने कहा कि उम्मीद है कि भारत-पाक इसे मिलकर सुलझाएंगे.</p>
+						<p class="fz22"><span>इमरान के सामने ट्रंप ने किया हाउडी मोदी का जिक्र</span></p>
+						<p class="fz22">इससे पहले पीएम मोदी ने इस ऐतिहासिक पल में देशवासियों को गवाह बनने की अपील की है. प्रधानमंत्री मोदी ने वैज्ञानिकों को बधाई दी है और देश के लोगों से अनुरोध किया कि सभी देर रात चंद्रयान-2 की लैंडिंग देखें और इस दौरान अपनी तस्वीर क्लिक कर ट्वीट करें. पीएम मोदी का कहना है कि वह उन तस्वीरों को रिट्वीट करेंगे.</p>
+
+						<p class="fz22"><span>इमरान के सामने ट्रंप ने किया हाउडी मोदी का जिक्र</span></p>
+						<p class="fz22">बता दें कि कल पाक पीएम इमरान खान से राष्ट्रपति ट्रंप की मुलाकात के दौरान कश्मीर का मुद्दा उठा था लेकिन उन्हें मुहं की खानी पड़ी थी. पाकिस्तान के प्रधानमंत्री को डोनाल्ड ट्रंप ने झटका देते हुए साफ किया कि वो तैयार तो हैं लेकिन भारत की सहमति भी जरूरी है. जाहिर है कि भारत, कश्मीर को द्विपक्षीय मुद्दा मानता है और ये साफ है कि भारत इसमें किसी तीसरे की भूमिका नहीं मानता है. ट्रंप ने कहा कि अकेले इमरान खान के तैयार होने से कुछ नहीं होता, दूसरे पक्ष का तैयार होना भी जरूरी है. इसके साथ ही उन्होंने कहा कि उम्मीद है कि भारत-पाक इसे मिलकर सुलझाएंगे.</p>
+						<p class="fz22">इससे पहले पीएम मोदी ने इस ऐतिहासिक पल में देशवासियों को गवाह बनने की अपील की है. प्रधानमंत्री मोदी ने वैज्ञानिकों को बधाई दी है और देश के लोगों से अनुरोध किया कि सभी देर रात चंद्रयान-2 की लैंडिंग देखें और इस दौरान अपनी तस्वीर क्लिक कर ट्वीट करें. पीएम मोदी का कहना है कि वह उन तस्वीरों को रिट्वीट करेंगे.</p>
 
 						
 					</div>
 
-					<div class="article_block_quote fz24 uk-text-bold"><span class="quote_right" uk-icon="quote-right"></span>&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur.</div>
+					<div class="article_block_quote fz24 uk-text-bold"><span class="quote_right" uk-icon="quote-right"></span>&nbsp;“ मैं वहां बैठा था. मैंने भारत और प्रधानमंत्री की तरफ से बहुत की आक्रामक बयान सुना. मैं ये कहूंगा कि वहां 59000 लोगों का अच्छा समर्थन मिला.’’ इमरान खान ने पत्रकारों से कहा कि प्रधानमंत्री मोदी और इमरान खान दोनों से उनके अच्छे संबंध हैं.” - रवि प्रसाद</div>
 
 
 					<div class="article_featured2">
-						<div class="article_featured1_question fz20 uk-position-relative">
+						<div class="article_featured1_question fz22 uk-position-relative">
 							<span class="abp_icon_tr abp_article_arrow_left abp_article_arrow"></span>मनोज तिवारी ने कहा है कि अपनी गलतियों को छिपाने के लिए केजरीवाल पड़ोसी राज्यों को जिम्मेदार ठहरा रहे हैं. ?
 						</div>
 						<div class="news_featured article_padding">
-							<div><p class="fz20"><span class="abp_icon_tr abp_article_arrow abp_article_arrow_right"></span>बता दें कि कल पाक पीएम इमरान खान से राष्ट्रपति ट्रंप की मुलाकात के दौरान कश्मीर का मुद्दा उठा था लेकिन उन्हें मुहं की खानी पड़ी थी. पाकिस्तान के प्रधानमंत्री को डोनाल्ड ट्रंप ने झटका देते हुए साफ किया कि वो तैयार तो हैं लेकिन भारत की सहमति भी जरूरी है. जाहिर है कि भारत, कश्मीर को द्विपक्षीय मुद्दा मानता है और ये साफ है कि भारत इसमें किसी तीसरे की भूमिका नहीं मानता है. ट्रंप ने कहा कि अकेले इमरान खान के तैयार होने से कुछ नहीं होता, दूसरे पक्ष का तैयार होना भी जरूरी है. इसके साथ ही उन्होंने कहा कि उम्मीद है कि भारत-पाक इसे मिलकर सुलझाएंगे.</p></div>
+							<div><p class="fz22"><span class="abp_icon_tr abp_article_arrow abp_article_arrow_right"></span>बता दें कि कल पाक पीएम इमरान खान से राष्ट्रपति ट्रंप की मुलाकात के दौरान कश्मीर का मुद्दा उठा था लेकिन उन्हें मुहं की खानी पड़ी थी. पाकिस्तान के प्रधानमंत्री को डोनाल्ड ट्रंप ने झटका देते हुए साफ किया कि वो तैयार तो हैं लेकिन भारत की सहमति भी जरूरी है. जाहिर है कि भारत, कश्मीर को द्विपक्षीय मुद्दा मानता है और ये साफ है कि भारत इसमें किसी तीसरे की भूमिका नहीं मानता है. ट्रंप ने कहा कि अकेले इमरान खान के तैयार होने से कुछ नहीं होता, दूसरे पक्ष का तैयार होना भी जरूरी है. इसके साथ ही उन्होंने कहा कि उम्मीद है कि भारत-पाक इसे मिलकर सुलझाएंगे.</p></div>
 						</div>
 					</div>
 
@@ -123,12 +91,8 @@
 					<div class="article_featured2">
 						<div class="news_featured article_padding">
 							<div>
-								<p class="fz24 uk-text-bold uk-remove-padding" style="margin-bottom: 15px;border-bottom:2px solid #EC2346;"><span style="color: #EC2346;">1. </span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod?</p>
-								<p class="fz20">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-								proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								<p class="fz26 uk-text-bold uk-remove-padding" style="margin-bottom: 15px;border-bottom:2px solid #EC2346;"><span style="color: #EC2346;">1. </span>मैं वहां बैठा था. मैंने भारत और प्रधानमंत्री की तरफ से बहुत की आक्रामक बयान सुना. मैं ये कहूंगा कि वहां</p>
+								<p class="fz20">बता दें कि कल पाक पीएम इमरान खान से राष्ट्रपति ट्रंप की मुलाकात के दौरान कश्मीर का मुद्दा उठा था लेकिन उन्हें मुहं की खानी पड़ी थी. पाकिस्तान के प्रधानमंत्री को डोनाल्ड ट्रंप ने झटका देते हुए साफ किया कि वो तैयार तो हैं लेकिन भारत की सहमति भी जरूरी है. जाहिर है कि भारत, कश्मीर को द्विपक्षीय मुद्दा मानता है और ये साफ है कि भारत इसमें किसी तीसरे की भूमिका नहीं मानता है. ट्रंप ने कहा कि अकेले इमरान खान के तैयार होने से कुछ नहीं होता, दूसरे पक्ष का तैयार होना भी जरूरी है. इसके साथ ही उन्होंने कहा कि उम्मीद है कि भारत-पाक इसे मिलकर सुलझाएंगे.</p>
 						</div>
 						</div>
 					</div>

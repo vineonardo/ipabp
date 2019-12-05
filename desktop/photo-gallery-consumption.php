@@ -2,23 +2,30 @@
 	include 'header.php';
 ?>
 
-<section>
+<div class="uk-container uk-text-normal uk-margin-top breadcrumbs">
+	<?php include '_breadcrumb.php'; ?>
+</div>
+
+<section class="uk-position-relative">
 	<div class="uk-container content">
+		<div><?php include '_social_share.php'; ?></div>
 		<div class="uk-grid-small" uk-grid> 
-			<div class="uk-width-expand">
+			 <div class="uk-width-expand uk-position-relative">
+			 	<?php include '_social_share_bw.php'; ?>
 			 		<div class="section_title">
 						<h2>विश्व</h2>
 					</div>
 					<div class="article_content">
 						<h1 class="fz32">राष्ट्रपति ट्रंप ने फिर दोहराई मध्यस्थता की बात, कहा- अगर दोनों देश मानेंगे तो मैं मदद करूंगा</h1>
 						<div>
+
 							<p class="live-tv-label fz24">&nbsp;अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता की पेशकश कर चुके हैं.</p>
 							<p class="live-tv-label fz24">&nbsp;ट्रंप ने कहा कि कश्मीर मामले में वो मदद करना चाहते हैं लेकिन ऐसा वो तभी करेंगे जब भारत इसके लिए तैयार हो.</p>
 						</div>
-						<div class="article_author fz16"><span>By : ABP News</span> <span>|</span> <span>Updated: 24 Oct 2019 6:06PM</span> </div>
+						<div class="article_author fz16 pt-10"><span>By : ABP News</span> <span>|</span> <span>Updated: 24 Oct 2019 6:10PM</span> </div>
 
 						<div class="news_featured">
-							<a href="#"><img src="images/16-9.jpg" width="100%"></a>
+							<a href="#"><img class="article_feature uk-border-remove" src="images/16-9.jpg" width="100%"></a>
 							<div class="news_content"><a href="#"><p class="fz24">अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</p>
 							<p class="article_author fz16"><span>Photograph by : Jon Sno | Reuters </span></p>
 							</a></div>
