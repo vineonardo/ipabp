@@ -16,47 +16,47 @@
 											<img class="uk-border-rounded-normal" src="images/16-9.jpg" width="100%">
 										</div>
 			</div>
-			<div class="uk-width-1-3 vid_scroll">
+			<div class="uk-width-1-3 vid_scroll scroll_css">
 				<div class="other_news uk-margin-remove-top">
 					<div uk-grid>
-						<div class="uk-width-3-5 newsList_ht_1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10">Watch</span></p>
+						<div class="uk-width-2-3 newsList_ht_1">
+							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
-						<div class="uk-width-2-5 uk-padding-remove-left" style="padding-left: 0;">
+						<div class="uk-width-1-3 uk-padding-remove-left" style="padding-left: 0;">
 							<a href="#"><img src="images/4-3.jpg" width="100%"></a>
 						</div>
 					</div>
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-3-5 newsList_ht_1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10">Watch</span></p>
+						<div class="uk-width-2-3 newsList_ht_1">
+							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
-						<div class="uk-width-2-5 uk-padding-remove-left" style="padding-left: 0;">
+						<div class="uk-width-1-3 uk-padding-remove-left" style="padding-left: 0;">
 							<a href="#"><img src="images/4-3.jpg" width="100%"></a>
 						</div>
 					</div>
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-3-5 newsList_ht_1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10">Watch</span></p>
+						<div class="uk-width-2-3 newsList_ht_1">
+							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
-						<div class="uk-width-2-5 uk-padding-remove-left" style="padding-left: 0;">
+						<div class="uk-width-1-3 uk-padding-remove-left" style="padding-left: 0;">
 							<a href="#"><img src="images/4-3.jpg" width="100%"></a>
 						</div>
 					</div>
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-3-5 newsList_ht_1">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
-							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10">Watch</span></p>
+						<div class="uk-width-2-3 newsList_ht_1">
+							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
-						<div class="uk-width-2-5 uk-padding-remove-left" style="padding-left: 0;">
+						<div class="uk-width-1-3 uk-padding-remove-left" style="padding-left: 0;">
 							<a href="#"><img src="images/4-3.jpg" width="100%"></a>
 						</div>
 					</div>

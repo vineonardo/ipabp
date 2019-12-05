@@ -32,11 +32,14 @@
 										</div>
  						    		</div>
  						    		<div class="uk-width-2-5 trending_videos">
- 						    			<div class="trending_videos_section">
+ 						    			<div class="trending_videos_section scroll_css">
  						    				<h2>Top 10 Trending Videos</h2>
  						    				<div class="trending_vid_each" uk-grid>
- 						    					<div class="uk-width-2-5">
-	 						    					<img src="images/16-9.jpg">
+ 						    					<div class="uk-width-2-5 uk-position-relative">
+	 						    					<img src="images/now-playing.png">
+	 						    					<div class="now_playing_img">
+	 						    						NOW
+ 						    						</div>
  						    					</div>
  						    					<div class="uk-width-3-5 trending_vid_each_row">
  						    						<p class="fz18">इन पुलिसकर्मियों के कौन काटेगा चालान? खुलेआम तोड़ रहे ट्रैफिक नियम</p>

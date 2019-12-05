@@ -10,7 +10,7 @@
 				<div class="uk-container">
 					<div class="uk-position-relative">
 						<div class="article_cat">
-							<h1>बिज़नेस</h1>					
+							<h1 class="uk-margin-left">बिज़नेस</h1>					
 						</div>
 						<div class="sub_menu">
 							<ul>
@@ -116,6 +116,7 @@
 				</div>
 				<div class="uk-sidebar">
 					<?php include '_adBanner_square.php'; ?>
+					<div class="uk-text-center news_content uk-padding-small uk-text-muted">ADVERTISEMENT</div>
 				</div>
 			</div>
 		</div>
