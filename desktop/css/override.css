@@ -19,9 +19,6 @@ h1,h2,h3,h4,h5,h6{color: #000}
 .fontFeatured{font-size: 1.3rem;}
 .uk-sidebar{width: 315px;}
 
-.scrollable_ht_4_3{}
-.scrollable_ht_16_9{height:346px;}
-
 /* Custom icons using sprite */
 .abp_icon,.abp_icon_tr{
     position: relative;
@@ -644,10 +641,28 @@ h1,h2,h3,h4,h5,h6{color: #000}
 .social_share_sec,.social_share_sec_bw{height:190px;width:41px;border-top-right-radius:6px;border-bottom-right-radius:6px;background-color: #fff;}
 .social_share_sec .icon1,.social_share_sec_bw .icon1{left:3px;}
 /*-------breaking news section css----------------*/
+.scrollable_ht_16_9{height:346px;}
 .scrollable_content h1{width: 65%;}
 .scrollable_content h2{padding-bottom: 10px;}
 
 .column_left{width:54%;}.column_right{width:46%;}
+
+/* width */
+.scroll_css::-webkit-scrollbar {
+  width: 4px;
+}
+/* Track */
+.scroll_css::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+/* Handle */
+.scroll_css::-webkit-scrollbar-thumb {
+  background: #ccc;
+}
+/* Handle on hover */
+.scroll_css::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
+}
 
 @media screen and (max-width:1200px){
     .newsList_ht{height:83px;overflow:hidden;}
@@ -655,7 +670,7 @@ h1,h2,h3,h4,h5,h6{color: #000}
     .floated_section_title .read_more_section h6 a{padding:0 6px;}
     .my_notifications ul li{font-size: 16px;}
 
-    .trending_vid_each_row{height: 45px;overflow: hidden;}
+    .scrollable_ht_16_9{height:257px;}
     .news_featured .play_btn_div{top:22%;}
 
     .trending_videos_section{height: 209px;}
