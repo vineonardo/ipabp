@@ -21,10 +21,10 @@
  						    			<div class="trending_videos_section scroll_css">
  						    				<div class="article_content">
  						    				<h1 class="fz26 uk-border-remove">डोनाल्ड ट्रंप ने कसा तंज, कहा- हिलेरी क्लिंटन को 2020 का राष्ट्रपति चुनाव लड़ना चाहिए</h1>
- 						    				<h2 class="fz18 red-label uk-border-remove uk-margin-remove">रिलेटेड स्टोरीज</h2>
+ 						    				<h2 class="fz22 red-label uk-border-remove uk-margin-remove">रिलेटेड स्टोरीज</h2>
  						    				<p class="live-tv-label fz18">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
 											<p class="live-tv-label fz18">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
-											<p class="live-tv-label fz18">&nbsp;हरियाणा में कांग्रेस ने आईएनएलडी के ‘जर्जर किले’ में लगाई सेंध, तीन नेताओं ने थामा ‘हाथ’</p>
+											
  						    				</div>
  						    			</div>
  						    		</div>
