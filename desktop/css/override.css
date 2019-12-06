@@ -497,7 +497,8 @@ h1,h2,h3,h4,h5,h6,p{color: #000}
 .movie_rev{padding-bottom: 20px;}
 .movie_rev .movie_stars{overflow: hidden;}
 .movie_rev .movie_stars p{float: left;width: 50%;font-size: 14px;padding:0;}
-.movie_rev .movie_stars img{float: right;width: 40%;border:none;}
+.stars_svg{background-color: #EC2346;border-radius: 2px;padding:2px 0;text-align: center;}
+.movie_rev .movie_stars .stars_svg{float: right;width: 40%;border:none;}
 .movie_rev p{padding:0;}
 .footer{background-color: #222;color:#fff;padding:2% 3.2%;margin-bottom: 10px;}
 .footer .footer_1_left a{text-decoration: none;background: #404040;padding:4px 12px;border-radius: 20px;margin-right: 8px;color: #eee;}
@@ -683,4 +684,5 @@ h1,h2,h3,h4,h5,h6,p{color: #000}
     .column_left{width:59%;}.column_right{width:41%;}
 
     .uk-slideshow-ht{height: 500px;}
+    .movie_rev .movie_stars .stars_svg{width: 47%;}
 }
