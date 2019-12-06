@@ -543,7 +543,13 @@
 							<a href="#">
 								<div class="movie_stars">
 									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<div class="stars_svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_white.svg">
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -558,7 +564,13 @@
 							<a href="#">
 								<div class="movie_stars">
 									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<div class="stars_svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_white.svg">
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -573,7 +585,13 @@
 							<a href="#">
 								<div class="movie_stars">
 									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<div class="stars_svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_white.svg">
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -588,7 +606,13 @@
 							<a href="#">
 								<div class="movie_stars">
 									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<div class="stars_svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_yellow.svg">
+										<img src="images/star_white.svg">
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
