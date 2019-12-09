@@ -542,34 +542,15 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
+									<p class="uk-text-bold">वॉर WAR</p>
 									<div class="stars_svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_white.svg">
-									</div>
-								</div>
-								<p>एक्शन थ्रिलर</p>
-								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="uk-width-1-4">
-					<div class="news_featured" style="box-shadow: none;border:1px solid #999;">
-						<a href="#"><img class="uk-border-remove" src="images/16-9.jpg" width="100%"></a>
-						<div class="news_content movie_rev uk-padding-small">
-							<a href="#">
-								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<div class="stars_svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_white.svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
 									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
@@ -607,13 +588,38 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
+									<p class="uk-text-bold">वॉर WAR</p>
 									<div class="stars_svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_yellow.svg">
-										<img src="images/star_white.svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
+								</div>
+								<p>एक्शन थ्रिलर</p>
+								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="uk-width-1-4">
+					<div class="news_featured" style="box-shadow: none;border:1px solid #999;">
+						<a href="#"><img class="uk-border-remove" src="images/16-9.jpg" width="100%"></a>
+						<div class="news_content movie_rev uk-padding-small">
+							<a href="#">
+								<div class="movie_stars">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
 									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
