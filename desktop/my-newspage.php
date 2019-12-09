@@ -21,7 +21,7 @@
 											  <img src="images/profile.png">
 											</div>
 											  <div class="uk-align-left my_details">
-											  	<h4 class="uk-margin-remove">Good Morning Vijay</h4>
+											  	<h4 class="uk-margin-remove fz20">Good Morning Vijay</h4>
 											  	<div>You have 15 new Stories</div>
 											  	<a href="#">Customize My Profile</a>
 											  </div>
@@ -49,7 +49,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
 				</div>
 
 				<div class="news_featured">
@@ -59,7 +59,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
 				</div>
 
 				<div class="news_featured">
@@ -69,7 +69,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
 				</div>
 			</div>
 			<div class="uk-sidebar">
@@ -138,6 +138,7 @@
 				</div>
 				<div class="uk-sidebar">
 					<?php include '_adBanner_square.php'; ?>
+					<div class="uk-text-center news_content uk-padding-small uk-text-muted">ADVERTISEMENT</div>
 				</div>
 			</div>
 		</div>
@@ -155,7 +156,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p></a></div>
 				</div>
 			</div></div></div>
 
@@ -170,7 +171,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">विराट कोहली और रोहित शर्मा के बीच विवाद की खबरों पर कपिल देव की राय.</p></a></div>
 				</div>
 			</div></div></div>
 
@@ -184,7 +185,7 @@
 					<div class="play_btn_div">
 						<img class="play_btn_div_big" src="images/artboard_op.png">
 					</div>
-					<div class="news_content"><a href="#"><p class="fz24">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
+					<div class="news_content"><a href="#"><p class="fz28">Aus vs ENG प्रीव्यू: 18 साल बाद इंग्लैंड की धरती पर इतिहास रचने उतरेगी ऑस्ट्रेलियाई</p></a></div>
 				</div>
 			</div></div></div>
 	</section>

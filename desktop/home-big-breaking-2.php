@@ -15,11 +15,11 @@
 				<div class="trending_videos">
  					<div>
  						<div class="article_content scrollable_content scrollable_ht_16_9  uk-overflow-auto">
- 							<h1 class="fz26 uk-border-remove uk-padding-remove-bottom">डोनाल्ड ट्रंप ने कसा तंज, कहा- हिलेरी क्लिंटन को 2020 का राष्ट्रपति चुनाव लड़ना चाहिए</h1>
- 							<h2 class="fz22 red-label uk-border-remove uk-margin-remove uk-text-bold">रिलेटेड स्टोरीज</h2>
-							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
-							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
-							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<h1 class="uk-border-remove uk-padding-remove-bottom martel fz40">डोनाल्ड ट्रंप ने कसा तंज, कहा- हिलेरी क्लिंटन को 2020 का राष्ट्रपति चुनाव लड़ना चाहिए</h1>
+ 							<h2 class="fz26 red-label uk-border-remove uk-margin-remove uk-text-bold">रिलेटेड स्टोरीज</h2>
+							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
  						</div>
  					</div>
  				</div>
@@ -27,7 +27,7 @@
 		</div>
 	</div>
 	<div class="uk-margin-top uk-padding-small">
-		<div class="breaking_big uk-ribbon fz20"><span class="high">Breaking News :</span><span class="low">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में आतंकियों से बातचीत के सारे कोडवर्ड में</span></div>
+		<div class="breaking_big uk-ribbon fz22"><span class="high">Breaking News :</span><span class="low">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में आतंकियों से बातचीत के सारे कोडवर्ड में</span></div>
 	</div>
 	<div class="uk-container content">
 		<div uk-grid>
@@ -38,7 +38,7 @@
 									<img src="images/16-9.jpg" width="100%" />
 									<div class="uk-ribbon"><span class="high">Breaking</span><span class="low">News</span></div>
 									<div class="news_content">
-										<h2 class="fz20 p-10 uk-text-bold uk-text-center">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में किया बदलाव</h2>
+										<h2 class="fz22 p-10 uk-text-bold uk-text-center">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में किया बदलाव</h2>
 									</div>
 								</a>
 							</div>
@@ -46,12 +46,11 @@
 			</div>
 			<div class="uk-width-1-2">
  						<div class="article_content scrollable_content">
- 							<h2 class="fz22 red-label uk-border-remove uk-margin-remove uk-text-bold">मुख्या समाचार</h2>
- 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
- 							<p class="live-tv-label fz20">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
- 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
- 							<p class="live-tv-label fz20">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
- 							<p class="live-tv-label fz20">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
+ 							<h2 class="fz32 red-label uk-border-remove uk-margin-remove uk-text-bold">मुख्या समाचार</h2>
+ 							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<p class="live-tv-label fz22">&nbsp;कांग्रेस नेता डीके शिवकुमार की ED हिरासत आज होगी खत्म, कोर्ट में किया जाएगा पेश</p>
+ 							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
+ 							<p class="live-tv-label fz22">&nbsp;महाराष्ट्र विधानसभा चुनावः ‘चोर या पुलिस’ बैनर पर गरमाई राजनीति</p>
  							
  						</div>
  					</div>
@@ -77,7 +76,7 @@
 							</div>
 						</div>
 						<div class="breaking-alert uk-alert uk-alert-border uk-margin-bottom">
-		                        <h2 class="fz20 p-10 uk-margin-remove"><span class="red-label uk-text-uppercase uk-text-bold">Breaking News:</span>
+		                        <h2 class="fz22 p-10 uk-margin-remove"><span class="red-label uk-text-uppercase uk-text-bold">Breaking News:</span>
 		                        <span>भारतीय ख़ुफ़िया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड्स बदल दिये</span></h2>
                    		 </div>
 						 
@@ -463,32 +462,32 @@
 			<div class="popular_tv_shows uk-grid-small uk-margin-top" uk-grid>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				
@@ -509,8 +508,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -524,8 +531,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -539,8 +554,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -554,8 +577,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -563,6 +594,7 @@
 						</div>
 					</div>
 				</div>
+				
 			</div>
 		</div>
 	</section>

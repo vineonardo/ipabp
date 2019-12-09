@@ -14,7 +14,7 @@
 									<img src="images/16-9.jpg" width="100%" />
 									<div class="uk-ribbon"><span class="high">Breaking</span><span class="low">News</span></div>
 									<div class="news_content">
-										<h2 class="fz20 p-10 uk-text-bold uk-text-center">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में किया बदलाव</h2>
+										<h2 class="fz22 p-10 uk-text-bold uk-text-center">भारतीय खुफिया एजेंसी से डरी पाकिस्तानी एजेंसी, आतंकियों से बातचीत के सारे कोडवर्ड में किया बदलाव</h2>
 									</div>
 								</a>
 							</div>
@@ -410,32 +410,32 @@
 			<div class="popular_tv_shows uk-grid-small uk-margin-top" uk-grid>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				
@@ -456,8 +456,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -471,8 +479,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -486,8 +502,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>
@@ -501,8 +525,16 @@
 						<div class="news_content movie_rev uk-padding-small">
 							<a href="#">
 								<div class="movie_stars">
-									<p class="uk-text-bold">वॉर (WAR)</p>
-									<img src="images/review.png">
+									<p class="uk-text-bold">वॉर WAR</p>
+									<div class="stars_svg">
+										<div class="stars_svg_sec">
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars_active"></span>
+											<span class="abp_icon_tr abp_stars"></span>
+										</div>
+									</div>
 								</div>
 								<p>एक्शन थ्रिलर</p>
 								<p><b>निर्देशक</b> : सिद्धार्थ आनंद</p>

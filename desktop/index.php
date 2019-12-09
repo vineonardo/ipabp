@@ -198,7 +198,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -209,7 +209,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -220,7 +220,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -231,7 +231,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -242,7 +242,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -253,7 +253,7 @@
 										<img src="images/4-3.jpg" width="100%" />
 										
 										<div class="news_content">
-											<p class="fz18 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
+											<p class="fz20 p-10 uk-text-center">बेहद खूबसूरत साड़ी में गणपति दर्शन को पहुंची दीपिका पादुकोण…</p>
 										</div>
 									</a>
 								</div>
@@ -496,32 +496,32 @@
 			<div class="popular_tv_shows uk-grid-small uk-margin-top" uk-grid>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				<div class="uk-width-1-6 uk-position-relative">
 					<img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz16">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 				</div>
 				

@@ -19,7 +19,7 @@
 			<div class="uk-width-1-3 vid_scroll scroll_css">
 				<div class="other_news uk-margin-remove-top">
 					<div uk-grid>
-						<div class="uk-width-2-3 newsList_ht_1">
+						<div class="uk-width-2-3 newsList_ht_1 pt-10">
 							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
@@ -30,7 +30,7 @@
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-2-3 newsList_ht_1">
+						<div class="uk-width-2-3 newsList_ht_1 pt-10">
 							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
@@ -41,7 +41,7 @@
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-2-3 newsList_ht_1">
+						<div class="uk-width-2-3 newsList_ht_1 pt-10">
 							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
@@ -52,7 +52,7 @@
 				</div>
 				<div class="other_news">
 					<div uk-grid>
-						<div class="uk-width-2-3 newsList_ht_1">
+						<div class="uk-width-2-3 newsList_ht_1 pt-10">
 							<p class="fz18">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
 							<p class="watch_now"><span class="abp_icon abp_play"></span>&nbsp;&nbsp;<span class="pl-10 fz16">Watch</span></p>
 						</div>
@@ -131,42 +131,42 @@
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-							<p>Master Stroke</p>
+							<p class="fz24">Master Stroke</p>
 							<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz24">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz24">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" checked/></span></div>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz24">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz24">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 			            </div>
 			        </li>
 			        <li class="uk-width-1-5">
 			            <div class="uk-panel popular_tv_shows">
 			              <img src="images/1-1.jpg" >
-					<p>Master Stroke</p>
+					<p class="fz24">Master Stroke</p>
 					<div class="populartv_icon"><span><input type="checkbox" class="star" /></span></div>
 			            </div>
 			        </li>

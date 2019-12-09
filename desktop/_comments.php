@@ -1,6 +1,6 @@
 <div>
-	<h4 style="font-weight: 600;">Comments</h4>
-	<div class="comments_section">
+	<h4 class="uk-wt-600">Comments</h4>
+	<div class="comments_section fz20">
 		<div class="comments_block">
 			<div class="prof_img">
 			  <img src="images/profile.png">
@@ -20,7 +20,7 @@
 		  </div>
 		</div>
 	</div>
-	<div class="uk-margin-top">
-		<button style="border:2px solid #EC2436;background-color: #fff;border-radius:10px;padding:11px 16px;"><span class="abp_icon abp_mancha"></span><span class="pd-left-40">चरका में शामिल हो</span></button>
+	<div class="uk-margin-top mancha_btn">
+		<button><span class="abp_icon abp_mancha"></span><span class="pd-left-40">चरका में शामिल हो</span></button>
 	</div>
 </div>
