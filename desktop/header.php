@@ -10,6 +10,7 @@
 		<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.3/dist/css/uikit.min.css" /> -->
 		<link rel="stylesheet" href="css/override.css" />
 		<link href="https://fonts.googleapis.com/css?family=Cambay:400,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Martel+Sans&display=swap" rel="stylesheet">
 	</head>
 	<body>
 		<?php include '_adBannerHead.php'; ?>
