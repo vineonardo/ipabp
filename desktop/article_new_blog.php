@@ -129,7 +129,9 @@
 						
 					</div>
 
-					<div class="article_block_quote fz24 uk-text-bold"><span class="quote_right" uk-icon="quote-right"></span>&nbsp;“ मैं वहां बैठा था. मैंने भारत और प्रधानमंत्री की तरफ से बहुत की आक्रामक बयान सुना. मैं ये कहूंगा कि वहां 59000 लोगों का अच्छा समर्थन मिला.’’ इमरान खान ने पत्रकारों से कहा कि प्रधानमंत्री मोदी और इमरान खान दोनों से उनके अच्छे संबंध हैं.” - रवि प्रसाद</div>
+					<div class="article_block_quote fz24 uk-text-bold"><span class="abp_icon_tr abp_quotes_left"></span>&nbsp;&nbsp; मैं वहां बैठा था. मैंने भारत और प्रधानमंत्री की तरफ से बहुत की आक्रामक बयान सुना. मैं ये कहूंगा कि वहां 59000 लोगों का अच्छा समर्थन मिला.’’ इमरान खान ने पत्रकारों से कहा कि प्रधानमंत्री मोदी और इमरान खान दोनों से उनके अच्छे संबंध हैं.<span class="abp_icon_tr abp_quotes_right"></span>
+						<br>
+					 - <div><em>रवि प्रसाद</em></div></div>
 
 
 					<div class="article_featured2">
