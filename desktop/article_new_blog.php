@@ -26,7 +26,7 @@
 
 						<div class="news_featured">
 							<a href="#"><img class="article_feature uk-border-remove" src="images/16-9.jpg" width="100%"></a>
-							<div class="news_content"><a href="#"><p class="fz24">अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</p>
+							<div class="news_content"><a href="#"><p class="fz26">अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</p>
 							<p class="article_author fz16"><span>Photograph by : Jon Sno | Reuters </span></p>
 							</a></div>
 						</div>
@@ -70,7 +70,7 @@
 		    	<li>
 		    		<img class="uk-border-rounded-normal uk-border-rounded-remove-bottom uk-position-relative uk-border-bottom" src="images/16-9.jpg">
                 	<div class="news_featured box-shadow-remove">
-                			<p class="fz24">अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</p>
+                			<p class="fz26">अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप पिछले 3 महीने में 6 बार कश्मीर के मामले में मध्यस्थता</p>
 							<p class="article_author fz16"><span>Photograph by : Jon Sno | Reuters </span></p>
 					</div>
 		    	</li>
